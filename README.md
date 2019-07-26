@@ -1,0 +1,2 @@
+# Rolling 500
+This is a list of all 500 albums on the [Rolling Stones 500 Greatest Albums of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-albums-of-all-time-156826/) and a checklist to help me keep track of the songs I have listened to.
