@@ -159,6 +159,7 @@ MuiVirtualizedTable.defaultProps = {
 
 const WrappedVirtualizedTable = withStyles(styles)(MuiVirtualizedTable);
 const rows = require("../populatedArray.js");
+// const listenArray = this.props.listenArray;
 
 
 function openInNewTab(url) {

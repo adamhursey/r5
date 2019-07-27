@@ -1,0 +1,8 @@
+.LoginBox {
+  width: 30vw;
+  padding: 2rem;
+  background-color: #F6F7F8;
+  position: relative;
+  margin: 5rem;
+  border-radius: 1.5rem;
+}
