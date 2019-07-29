@@ -1,6 +1,6 @@
 import React from 'react';
 import LoginButton from './LoginButton';
-import './LoginBox.css';
+import '../css/LoginBox.css';
 
 
 const LoginBox = () => {

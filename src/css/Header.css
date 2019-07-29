@@ -2,7 +2,7 @@
   background-color: #F6F7F8;
   width: 20em;
   display: block;
-  margin-bottom: 2em;
+  margin: 2em 0;
   clip-path: polygon(0 0, 80% 0, 100% 100%, 0% 100%);
 }
 

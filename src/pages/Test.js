@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import ArrayTable2 from '../components/ArrayTable2';
+import ArrayTable2 from '../components/ArrayTable';
 import Header from '../components/Header';
-import './Test.css';
+import '../css/Test.css';
 
 class Test extends Component {
   render() {
