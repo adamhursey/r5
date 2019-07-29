@@ -1,4 +1,6 @@
-module.exports = [
+import json
+
+albumArray = [
    {
      "albumID": "1",
      "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band",
@@ -488,7 +490,7 @@ module.exports = [
      "score": "90",
      "spotify": "http://open.spotify.com/album/4CfyfJWb1HSabAjdcLeThs"
    },
-{
+  {
       "albumID": "51",
       "albumTitle": "Bridge Over Troubled Water",
       "artist": "Simon & Garfunkel",
@@ -632,7 +634,7 @@ module.exports = [
       "artist": "Phil Spector",
       "image": "https://cdn.albumoftheyear.org/images/white.gif",
       "date": "NOVEMBER 12, 1991",
-      "genre": "CRITIC SCORE"
+      "genre": "CRITIC SCORE",
    },
    {
       "albumID": "66",
@@ -4826,3 +4828,15 @@ module.exports = [
       "score": "92"
    }
 ]
+# print(albumArray[400]["score"])
+for album in albumArray:
+  album['albumID'] = int(album['albumID'])
+  album['date'] = int(album['date'].split(', ')[1])
+  if 'genre' in album:
+    if album['genre'] == 'CRITIC SCORE':
+      album['genre'] = 'Unknown'
+  if 'score' in album:
+    album['score'] = int(album['score'])
+with open('data.json', 'w') as f:
+  json.dump(albumArray, f)
+

@@ -27,6 +27,7 @@ const styles = theme => ({
     },
   },
   tableCell: {
+    fontSize: 16,
     flex: 1,
   },
   noClick: {
@@ -167,14 +168,22 @@ function openInNewTab(url) {
   win.focus();
 }
 
-function ReactVirtualizedTable() {
+const ReactVirtualizedTable = (props) => {
+
+  console.log(props.listenArray);
+
   return (
     <Paper style={{ height: 700, width: '80%' }}>
       <WrappedVirtualizedTable
         rowCount={rows.length}
         rowGetter={({ index }) => rows[index]}
-        onRowClick={item => openInNewTab(item.rowData.spotify)}
+        onRowClick={item => item.rowData.spotify? openInNewTab(item.rowData.spotify): alert('Album not on Spotify')}
         columns={[
+          {
+            width: 100,
+            label: 'Completed',
+            dataKey: 'albumID',
+          },
           {
             width: 100,
             label: 'Rank',
@@ -197,7 +206,7 @@ function ReactVirtualizedTable() {
             width: 120,
             flexGrow: 1.0,
             label: 'Date',
-            dataKey: 'date'
+            dataKey: 'date',
           },
           {
             width: 120,

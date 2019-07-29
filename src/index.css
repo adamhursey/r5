@@ -1,15 +1,44 @@
 body {
   margin: 0;
-  padding: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   cursor: url(http://www.rw-designer.com/cursor-extern.php?id=176);
+  box-sizing: border-box;
+  font-size: 62.5%;
+  /* padding: 3em; */
+  background-color: #003049;
+  height: 100vh;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  monospace;
+}
+
+html {
+}
+*,
+*::after,
+*::before {
+   margin: 0;
+   padding: 0;
+   box-sizing: inherit;
+}
+
+h2 {
+  color: #FF3366;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  text-indent: .5em;
+}
+
+h3 {
+  color: #FF3366;
+  text-transform: uppercase;
+  letter-spacing: .25em;
+  text-indent: .25em;
+  margin: 1em;
 }

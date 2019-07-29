@@ -1,0 +1,23 @@
+.home {
+  min-height: 100%;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  width: 100%;
+  transform: translate(-50%, -50%);
+}
+
+.title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #FF3366;
+  text-transform: uppercase;
+}
+
