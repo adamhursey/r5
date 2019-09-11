@@ -13,7 +13,6 @@ class Home extends React.Component {
   }
 
   componentDidMount() {
-    // console.log('mounted');
     const { data } = this.state;
     data.map((album) => {
       // eslint-disable-next-line no-param-reassign
@@ -23,26 +22,20 @@ class Home extends React.Component {
   }
 
   toggleListened = (albumID) => {
-    const { data } = { ...this.state.data };
+    const { data } = this.state;
     data[albumID].listened = !data[albumID].listened;
-    // this.setState((this.data[albumID].listened = !this.data[albumID].listened));
-    // console.log(albumID);
-    // console.log('toggle called');
-
     this.setState({
       data,
     });
   };
 
   render() {
+    const { data } = this.state;
     return (
       <div>
         <Header />
         <div className="table">
-          <ArrayTable
-            data={this.state.data}
-            toggleListened={this.toggleListened}
-          />
+          <ArrayTable data={data} toggleListened={this.toggleListened} />
         </div>
       </div>
     );

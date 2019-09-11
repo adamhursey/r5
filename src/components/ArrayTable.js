@@ -1,6 +1,7 @@
 import React from 'react';
 import MaterialTable from 'material-table';
 import Checkbox from '@material-ui/core/Checkbox';
+import PropTypes from 'prop-types';
 
 const dataJson = require('../data.json');
 
@@ -82,5 +83,22 @@ class ArrayTable extends React.PureComponent {
     );
   }
 }
+ArrayTable.propTypes = {
+  data: PropTypes.arrayOf(
+    PropTypes.shape({
+      albumID: PropTypes.number.isRequired,
+      albumTitle: PropTypes.string,
+      artist: PropTypes.string,
+      image: PropTypes.string,
+      date: PropTypes.number,
+      genre: PropTypes.string,
+      score: PropTypes.number,
+      spotify: PropTypes.string,
+      listened: PropTypes.bool,
+      // eslint-disable-next-line prettier/prettier
+    }),
+  ).isRequired,
+  toggleListened: PropTypes.func.isRequired,
+};
 
 export default ArrayTable;

@@ -1,5 +1,6 @@
 import React from 'react';
 import '../css/LoginButton.css';
+import PropTypes from 'prop-types';
 
 const Facebook = require('../images/facebook.svg');
 const Github = require('../images/github.svg');
@@ -26,5 +27,7 @@ const LoginButton = ({ site }) => (
     </button>
   </div>
 );
-
+LoginButton.propTypes = {
+  site: PropTypes.string.isRequired,
+};
 export default LoginButton;
