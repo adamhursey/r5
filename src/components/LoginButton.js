@@ -1,15 +1,30 @@
 import React from 'react';
 import '../css/LoginButton.css';
 
-const LoginButton = (props) => {
-  return (
-    <div className="buttonWrap">
-      <button className="loginButton">
-        <img className="logo" alt='' src={require(`../images/${props.site.toLowerCase()}.svg`)} />
-        <span className="label">{props.site}</span>
-      </button>
-    </div>
-  );
-};
+const Facebook = require('../images/facebook.svg');
+const Github = require('../images/github.svg');
+const Twitter = require('../images/twitter.svg');
+
+function imageGetter(logoName) {
+  switch (logoName) {
+    case 'Facebook':
+      return Facebook;
+    case 'Github':
+      return Github;
+    case 'Twitter':
+      return Twitter;
+    default:
+      return '';
+  }
+}
+
+const LoginButton = ({ site }) => (
+  <div className="buttonWrap">
+    <button className="loginButton" type="button">
+      <img className="logo" alt="" src={imageGetter(site)} />
+      <span className="label">{site}</span>
+    </button>
+  </div>
+);
 
 export default LoginButton;

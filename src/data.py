@@ -4832,6 +4832,7 @@ albumArray = [
 for album in albumArray:
   album['albumID'] = int(album['albumID'])
   album['date'] = int(album['date'].split(', ')[1])
+  album['listened'] = False
   if 'genre' in album:
     if album['genre'] == 'CRITIC SCORE':
       album['genre'] = 'Unknown'

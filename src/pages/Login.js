@@ -3,7 +3,6 @@ import LoginBox from '../components/LoginBox';
 import Header from '../components/Header';
 import '../css/login.css';
 
-
 function Login(props) {
   return (
     <div>

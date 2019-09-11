@@ -1,34 +1,38 @@
 import React from 'react';
-import ArrayTable from "../components/ArrayTable";
+import ArrayTable from '../components/ArrayTable';
 import Header from '../components/Header';
 import '../css/home.css';
 
 class Home extends React.Component {
-  state = {
-    data: [{ "albumID": 1, "albumTitle": "Sgt. Pepper's Lonely Hearts Club Band", "artist": "The Beatles", "image": "https://cdn.albumoftheyear.org/album/thumbs/sgt-peppers-lonely-hearts-club-band.jpg", "date": 1967, "genre": "POP ROCK", "score": 98, "spotify": "http://open.spotify.com/album/1PULmKbHeOqlkIwcDMNwD4", 'listened': false }]
+  constructor(props) {
+    super(props);
+    this.state = {
+      // eslint-disable-next-line global-require
+      data: require('../data.json'),
+    };
   }
 
-
-
   componentDidMount() {
-    console.log('mounted');
-    // let listenArray = new Array(500);
-    this.setState({data: require('../data.json')})
-    let data = this.state.data;
-    data.map(album => {
-      album['listened'] = false;
-    })
-  }r
+    // console.log('mounted');
+    const { data } = this.state;
+    data.map((album) => {
+      // eslint-disable-next-line no-param-reassign
+      album.listened = false;
+      return album;
+    });
+  }
 
   toggleListened = (albumID) => {
-    const data = {...this.state.data};
+    const { data } = { ...this.state.data };
     data[albumID].listened = !data[albumID].listened;
-    console.log(albumID);
+    // this.setState((this.data[albumID].listened = !this.data[albumID].listened));
+    // console.log(albumID);
+    // console.log('toggle called');
 
     this.setState({
       data,
     });
-  }
+  };
 
   render() {
     return (
