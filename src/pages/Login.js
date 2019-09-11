@@ -10,6 +10,7 @@ function Login() {
       <div className="login-header">
         <h2>Login</h2>
         <LoginBox />
+        <p>Auth coming soon... Buttons currently link you to home page </p>
       </div>
     </div>
   );
