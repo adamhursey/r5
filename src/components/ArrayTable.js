@@ -87,9 +87,9 @@ class ArrayTable extends React.PureComponent {
         options={{
           pageSize: size,
         }}
-        onChangeRowsPerPage={(size) => {
+        onChangeRowsPerPage={(rowSize) => {
           this.setState({
-            size,
+            size: rowSize,
           });
         }}
         // onRowClick={(evt, rowId) => {
