@@ -8,35 +8,47 @@ class ArrayTable extends React.PureComponent {
   constructor(props) {
     super(props);
     this.state = {
-      selectedRow: null,
-      listened: new Array(500),
+      listened: new Array(500).fill(false),
+      size: 5,
     };
   }
 
-  toggleListened(id) {
+  ConsoleLog = ({ children }) => {
+    // eslint-disable-next-line no-console
+    console.log(children);
+    return false;
+  };
+
+  handleCheckboxToggle = (id) => {
     const { listened } = this.state;
     listened[id] = !listened[id];
-    this.setState(listened);
-  }
+
+    this.setState({
+      listened,
+    });
+  };
 
   render() {
-    const stateSelectedRow = this.state;
-    const { listened } = this.state;
+    const { listened, size } = this.state;
+
     const columns = [
       {
         title: 'Completed',
         field: 'listened',
         render: (cell) => (
-          <Checkbox
-            checked={listened[cell.albumID - 1]}
-            onChange={() => {
-              this.toggleListened(cell.albumID - 1);
-            }}
-            value={listened[cell.albumID - 1]}
-            inputProps={{
-              'aria-label': 'primary checkbox',
-            }}
-          />
+          <>
+            {/* <this.ConsoleLog>{cell}</this.ConsoleLog> */}
+            <Checkbox
+              checked={listened[cell.albumID - 1]}
+              onChange={() => {
+                this.handleCheckboxToggle(cell.albumID - 1);
+                this.forceUpdate();
+              }}
+              inputProps={{
+                'aria-label': 'primary checkbox',
+              }}
+            />
+          </>
         ),
       },
       {
@@ -72,19 +84,26 @@ class ArrayTable extends React.PureComponent {
         title="Rolling Stones 500 Greatest Albums of All Time"
         columns={columns}
         data={dataJson}
-        onRowClick={(evt, selectedRow) => {
-          this.setState({ selectedRow });
-          // console.log('clicked');
-        }}
         options={{
-          rowStyle: (rowData) => ({
-            backgroundColor:
-              stateSelectedRow.selectedRow &&
-              stateSelectedRow.selectedRow.tableData.id === rowData.tableData.id
-                ? '#EEE'
-                : '#FFF',
-          }),
+          pageSize: size,
         }}
+        onChangeRowsPerPage={(size) => {
+          this.setState({
+            size,
+          });
+        }}
+        // onRowClick={(evt, rowId) => {
+        //   this.setState({ selectedRow: rowId });
+        //   console.log(evt);
+        // }}
+        // options={{
+        //   rowStyle: (rowData) => ({
+        //     backgroundColor:
+        //       selectedRow && selectedRow.tableData.id === rowData.tableData.id
+        //         ? '#EEE'
+        //         : '#FFF',
+        //   }),
+        // }}
       />
     );
   }
