@@ -22,7 +22,7 @@ function imageGetter(logoName) {
 
 const LoginButton = ({ site }) => (
   <div className="buttonWrap">
-    <Link to="/">
+    <Link to="/home">
       <button className="loginButton" type="button">
         <img className="logo" alt="" src={imageGetter(site)} />
         <span className="label">{site}</span>
