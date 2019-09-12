@@ -7,8 +7,7 @@
 		"date": 1967,
 		"genre": "POP ROCK",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/1PULmKbHeOqlkIwcDMNwD4",
-		"listened": true
+		"spotify": "http://open.spotify.com/album/1PULmKbHeOqlkIwcDMNwD4"
 	},
 	{
 		"albumID": 2,
@@ -18,8 +17,7 @@
 		"date": 1966,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
 	},
 	{
 		"albumID": 3,
@@ -29,8 +27,7 @@
 		"date": 1966,
 		"genre": "POP ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR?si=N8SY4t6LSra6TR_pfJPZqw",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR?si=N8SY4t6LSra6TR_pfJPZqw"
 	},
 	{
 		"albumID": 4,
@@ -40,8 +37,7 @@
 		"date": 1965,
 		"genre": "FOLK ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
 	},
 	{
 		"albumID": 5,
@@ -51,8 +47,7 @@
 		"date": 1965,
 		"genre": "POP ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
 	},
 	{
 		"albumID": 6,
@@ -62,8 +57,7 @@
 		"date": 1971,
 		"genre": "SOUL",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
 	},
 	{
 		"albumID": 7,
@@ -73,8 +67,7 @@
 		"date": 1972,
 		"genre": "BLUES ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/1EHyAQ7wYn9LIG9v3hdFre",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1EHyAQ7wYn9LIG9v3hdFre"
 	},
 	{
 		"albumID": 8,
@@ -84,8 +77,7 @@
 		"date": 1979,
 		"genre": "PUNK",
 		"score": 100,
-		"spotify": "",
-		"listened": false
+		"spotify": ""
 	},
 	{
 		"albumID": 9,
@@ -94,8 +86,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/blonde-on-blonde.jpg",
 		"date": 1966,
 		"genre": "FOLK ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 10,
@@ -105,8 +96,7 @@
 		"date": 1968,
 		"genre": "POP ROCK",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/03Qh833fEdVT30Pfs93ea6",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/03Qh833fEdVT30Pfs93ea6"
 	},
 	{
 		"albumID": 11,
@@ -115,8 +105,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/12530-the-sun-sessions.jpg",
 		"date": 1976,
 		"genre": "ROCKABILLY",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 12,
@@ -126,8 +115,7 @@
 		"date": 1959,
 		"genre": "JAZZ",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
 	},
 	{
 		"albumID": 13,
@@ -137,8 +125,7 @@
 		"date": 1967,
 		"genre": "ART ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
 	},
 	{
 		"albumID": 14,
@@ -147,8 +134,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/abbey-road.jpg",
 		"date": 1969,
 		"genre": "POP ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 15,
@@ -158,8 +144,7 @@
 		"date": 1967,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
 	},
 	{
 		"albumID": 16,
@@ -169,8 +154,7 @@
 		"date": 1975,
 		"genre": "SINGER-SONGWRITER",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
 	},
 	{
 		"albumID": 17,
@@ -179,8 +163,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/nevermind.jpg",
 		"date": 1991,
 		"genre": "GRUNGE",
-		"score": 92,
-		"listened": false
+		"score": 92
 	},
 	{
 		"albumID": 18,
@@ -190,8 +173,7 @@
 		"date": 1975,
 		"genre": "ROCK",
 		"score": 96,
-		"spotify": "http://open.spotify.com/album/2KwkK7CQpwprFOYh0t3aRw",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2KwkK7CQpwprFOYh0t3aRw"
 	},
 	{
 		"albumID": 19,
@@ -200,8 +182,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/astral-weeks.jpg",
 		"date": 1968,
 		"genre": "SINGER-SONGWRITER",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 20,
@@ -211,8 +192,7 @@
 		"date": 1982,
 		"genre": "POP",
 		"score": 94,
-		"spotify": "http://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
 	},
 	{
 		"albumID": 21,
@@ -222,8 +202,7 @@
 		"date": 1982,
 		"genre": "ROCK & ROLL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/1MEavknY0Ptw78jnCMYsa6",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1MEavknY0Ptw78jnCMYsa6"
 	},
 	{
 		"albumID": 22,
@@ -233,8 +212,7 @@
 		"date": 1990,
 		"genre": "BLUES",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5lQYtmPhbIIsrUtAVnzyeT",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5lQYtmPhbIIsrUtAVnzyeT"
 	},
 	{
 		"albumID": 23,
@@ -244,8 +222,7 @@
 		"date": 1970,
 		"genre": "ROCK",
 		"score": 83,
-		"spotify": "http://open.spotify.com/album/0KtrjSOFpgKwWOxTOrJets",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0KtrjSOFpgKwWOxTOrJets"
 	},
 	{
 		"albumID": 24,
@@ -255,8 +232,7 @@
 		"date": 1973,
 		"genre": "SOUL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
 	},
 	{
 		"albumID": 25,
@@ -266,8 +242,7 @@
 		"date": 1963,
 		"genre": "SOUL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3vm6BtNvSuDOooTkFM54kP",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3vm6BtNvSuDOooTkFM54kP"
 	},
 	{
 		"albumID": 26,
@@ -277,8 +252,7 @@
 		"date": 1977,
 		"genre": "POP",
 		"score": 99,
-		"spotify": "http://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
 	},
 	{
 		"albumID": 27,
@@ -288,8 +262,7 @@
 		"date": 1987,
 		"genre": "ROCK",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/586ZRfgsIckfcKvHVcGM4V",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/586ZRfgsIckfcKvHVcGM4V"
 	},
 	{
 		"albumID": 28,
@@ -299,8 +272,7 @@
 		"date": 1971,
 		"genre": "HARD ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3ipneUq3vZhmTXOFZMoHkf",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3ipneUq3vZhmTXOFZMoHkf"
 	},
 	{
 		"albumID": 29,
@@ -310,8 +282,7 @@
 		"date": 1969,
 		"genre": "HARD ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/5gHdy5QcChyIIbP9Mbqlm8",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5gHdy5QcChyIIbP9Mbqlm8"
 	},
 	{
 		"albumID": 30,
@@ -321,8 +292,7 @@
 		"date": 1971,
 		"genre": "FOLK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
 	},
 	{
 		"albumID": 31,
@@ -332,8 +302,7 @@
 		"date": 1965,
 		"genre": "FOLK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
 	},
 	{
 		"albumID": 32,
@@ -342,8 +311,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/let-it-bleed.jpg",
 		"date": 1969,
 		"genre": "BLUES ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 33,
@@ -353,8 +321,7 @@
 		"date": 1976,
 		"genre": "PUNK ROCK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY"
 	},
 	{
 		"albumID": 34,
@@ -364,8 +331,7 @@
 		"date": 1968,
 		"genre": "ROOTS ROCK",
 		"score": 99,
-		"spotify": "http://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
 	},
 	{
 		"albumID": 35,
@@ -374,8 +340,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars.jpg",
 		"date": 1972,
 		"genre": "GLAM ROCK",
-		"score": 99,
-		"listened": false
+		"score": 99
 	},
 	{
 		"albumID": 36,
@@ -385,8 +350,7 @@
 		"date": 1971,
 		"genre": "SINGER-SONGWRITER",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
 	},
 	{
 		"albumID": 37,
@@ -396,8 +360,7 @@
 		"date": 1976,
 		"genre": "POP ROCK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/2widuo17g5CEC66IbzveRu",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
 	},
 	{
 		"albumID": 38,
@@ -407,8 +370,7 @@
 		"date": 2001,
 		"genre": "BLUES",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5HM0XnToWhSPYEStptvUYt",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5HM0XnToWhSPYEStptvUYt"
 	},
 	{
 		"albumID": 39,
@@ -418,8 +380,7 @@
 		"date": 1963,
 		"genre": "POP ROCK",
 		"score": 94,
-		"spotify": "http://open.spotify.com/album/7gDXyW16byCQOgK965BRzn",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7gDXyW16byCQOgK965BRzn"
 	},
 	{
 		"albumID": 40,
@@ -429,8 +390,7 @@
 		"date": 1967,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/6myt0Ez6hGJIPQeZKgY8um",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6myt0Ez6hGJIPQeZKgY8um"
 	},
 	{
 		"albumID": 41,
@@ -439,8 +399,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/6057-never-mind-the-bollocks.jpg",
 		"date": 1977,
 		"genre": "PUNK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 42,
@@ -450,8 +409,7 @@
 		"date": 1967,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
 	},
 	{
 		"albumID": 43,
@@ -460,8 +418,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/4204-the-dark-side-of-the-moon.jpg",
 		"date": 1973,
 		"genre": "PROGRESSIVE ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 44,
@@ -471,8 +428,7 @@
 		"date": 1975,
 		"genre": "ROCK",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
 	},
 	{
 		"albumID": 45,
@@ -481,8 +437,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/the-band.jpg",
 		"date": 1969,
 		"genre": "ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 46,
@@ -492,8 +447,7 @@
 		"date": 1984,
 		"genre": "ROOTS REGGAE",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9"
 	},
 	{
 		"albumID": 47,
@@ -503,8 +457,7 @@
 		"date": 1965,
 		"genre": "AVANT-GARDE JAZZ",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5DXmUb5WnwvBeNJDgXx3sL",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5DXmUb5WnwvBeNJDgXx3sL"
 	},
 	{
 		"albumID": 48,
@@ -514,8 +467,7 @@
 		"date": 1988,
 		"genre": "HIP HOP",
 		"score": 96,
-		"spotify": "http://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
 	},
 	{
 		"albumID": 49,
@@ -524,8 +476,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/7314-at-fillmore-east.jpg",
 		"date": 1971,
 		"genre": "BLUES ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 50,
@@ -535,8 +486,7 @@
 		"date": 1957,
 		"genre": "ROCK & ROLL",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/4CfyfJWb1HSabAjdcLeThs",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4CfyfJWb1HSabAjdcLeThs"
 	},
 	{
 		"albumID": 51,
@@ -546,8 +496,7 @@
 		"date": 1970,
 		"genre": "FOLK ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
 	},
 	{
 		"albumID": 52,
@@ -557,8 +506,7 @@
 		"date": 1975,
 		"genre": "SOUL",
 		"score": 99,
-		"spotify": "http://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
 	},
 	{
 		"albumID": 53,
@@ -568,8 +516,7 @@
 		"date": 1964,
 		"genre": "POP ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/6IKycpEVcUtUpUKUa2DeOf",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6IKycpEVcUtUpUKUa2DeOf"
 	},
 	{
 		"albumID": 54,
@@ -579,8 +526,7 @@
 		"date": 1991,
 		"genre": "SOUL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3RPMCDSd1yj37hlqbizmeT",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3RPMCDSd1yj37hlqbizmeT"
 	},
 	{
 		"albumID": 55,
@@ -590,8 +536,7 @@
 		"date": 1968,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5z090LQztiqh13wYspQvKQ",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
 	},
 	{
 		"albumID": 56,
@@ -601,8 +546,7 @@
 		"date": 1956,
 		"genre": "ROCK & ROLL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/0xbql9IlSeJSnFZjfryYuf",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0xbql9IlSeJSnFZjfryYuf"
 	},
 	{
 		"albumID": 57,
@@ -612,8 +556,7 @@
 		"date": 1976,
 		"genre": "SOUL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/0BBWJ3L9fhkmNLdt4zs4fu",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0BBWJ3L9fhkmNLdt4zs4fu"
 	},
 	{
 		"albumID": 58,
@@ -623,8 +566,7 @@
 		"date": 1968,
 		"genre": "ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/7oS7E5bFMzE8PXTZQKW0ge",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7oS7E5bFMzE8PXTZQKW0ge"
 	},
 	{
 		"albumID": 59,
@@ -633,8 +575,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1976,
 		"genre": "COUNTRY ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 60,
@@ -643,8 +584,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1969,
 		"genre": "BLUES ROCK",
-		"score": 93,
-		"listened": false
+		"score": 93
 	},
 	{
 		"albumID": 61,
@@ -654,8 +594,7 @@
 		"date": 1970,
 		"genre": "PSYCHEDELIC SOUL",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
 	},
 	{
 		"albumID": 62,
@@ -665,8 +604,7 @@
 		"date": 1987,
 		"genre": "HARD ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
 	},
 	{
 		"albumID": 63,
@@ -676,8 +614,7 @@
 		"date": 1991,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 99,
-		"spotify": "http://open.spotify.com/album/1U69hFsxaQxP6fquZmOmNH",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1U69hFsxaQxP6fquZmOmNH"
 	},
 	{
 		"albumID": 64,
@@ -687,8 +624,7 @@
 		"date": 1971,
 		"genre": "BLUES ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
 	},
 	{
 		"albumID": 65,
@@ -696,8 +632,8 @@
 		"artist": "Phil Spector",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1991,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE",
+		"score": 0
 	},
 	{
 		"albumID": 66,
@@ -707,8 +643,7 @@
 		"date": 1970,
 		"genre": "SINGER-SONGWRITER",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/1EGgZgY8BFqFqAc7rq5j8r",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1EGgZgY8BFqFqAc7rq5j8r"
 	},
 	{
 		"albumID": 67,
@@ -717,8 +652,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2000,
 		"genre": "EXPERIMENTAL ROCK",
-		"score": 87,
-		"listened": false
+		"score": 87
 	},
 	{
 		"albumID": 68,
@@ -728,8 +662,7 @@
 		"date": 1979,
 		"genre": "R&B",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
 	},
 	{
 		"albumID": 69,
@@ -739,8 +672,7 @@
 		"date": 1971,
 		"genre": "HARD ROCK",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/1DGywk9OqzQHzqJY7D9kFo",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1DGywk9OqzQHzqJY7D9kFo"
 	},
 	{
 		"albumID": 70,
@@ -750,8 +682,7 @@
 		"date": 1977,
 		"genre": "POP ROCK",
 		"score": 83,
-		"spotify": "http://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
 	},
 	{
 		"albumID": 71,
@@ -761,8 +692,7 @@
 		"date": 1986,
 		"genre": "SINGER-SONGWRITER",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
 	},
 	{
 		"albumID": 72,
@@ -772,8 +702,7 @@
 		"date": 1972,
 		"genre": "FUNK",
 		"score": 96,
-		"spotify": "http://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
 	},
 	{
 		"albumID": 73,
@@ -783,8 +712,7 @@
 		"date": 1975,
 		"genre": "HARD ROCK",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F"
 	},
 	{
 		"albumID": 74,
@@ -793,8 +721,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1970,
 		"genre": "FOLK ROCK",
-		"score": 92,
-		"listened": false
+		"score": 92
 	},
 	{
 		"albumID": 75,
@@ -804,8 +731,7 @@
 		"date": 1991,
 		"genre": "FUNK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/4XX8CYb3pmdYGsNP3XtnhB",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4XX8CYb3pmdYGsNP3XtnhB"
 	},
 	{
 		"albumID": 76,
@@ -815,8 +741,7 @@
 		"date": 1984,
 		"genre": "R&B",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
 	},
 	{
 		"albumID": 77,
@@ -826,8 +751,7 @@
 		"date": 1980,
 		"genre": "HARD ROCK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/4MeQ4pO4NzikklgcMIRDEi",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4MeQ4pO4NzikklgcMIRDEi"
 	},
 	{
 		"albumID": 78,
@@ -837,8 +761,7 @@
 		"date": 1965,
 		"genre": "SOUL",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
 	},
 	{
 		"albumID": 79,
@@ -848,8 +771,7 @@
 		"date": 1969,
 		"genre": "HARD ROCK",
 		"score": 99,
-		"spotify": "http://open.spotify.com/album/7DrCheIpmljjT7iPQgpRHo",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7DrCheIpmljjT7iPQgpRHo"
 	},
 	{
 		"albumID": 80,
@@ -859,8 +781,7 @@
 		"date": 1971,
 		"genre": "ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/4ckFTXo5ovqjRTs2B3aeq9",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4ckFTXo5ovqjRTs2B3aeq9"
 	},
 	{
 		"albumID": 81,
@@ -869,8 +790,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1977,
 		"genre": "PUNK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 82,
@@ -880,8 +800,7 @@
 		"date": 1972,
 		"genre": "ROCK",
 		"score": 88,
-		"spotify": "http://open.spotify.com/album/1pHo7X82cTObgZll65R1rW",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1pHo7X82cTObgZll65R1rW"
 	},
 	{
 		"albumID": 83,
@@ -891,8 +810,7 @@
 		"date": 1967,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
 	},
 	{
 		"albumID": 84,
@@ -902,8 +820,7 @@
 		"date": 1967,
 		"genre": "SOUL",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
 	},
 	{
 		"albumID": 85,
@@ -913,8 +830,7 @@
 		"date": 1968,
 		"genre": "SOUL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
 	},
 	{
 		"albumID": 86,
@@ -924,8 +840,7 @@
 		"date": 1984,
 		"genre": "ROCK",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/14IYDXybb1XKu51QHDryak",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/14IYDXybb1XKu51QHDryak"
 	},
 	{
 		"albumID": 87,
@@ -934,8 +849,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1979,
 		"genre": "PROGRESSIVE ROCK",
-		"score": 83,
-		"listened": false
+		"score": 83
 	},
 	{
 		"albumID": 88,
@@ -945,8 +859,7 @@
 		"date": 1968,
 		"genre": "COUNTRY",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/4mPPGswjaQKfpbkf2cy0VY",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4mPPGswjaQKfpbkf2cy0VY"
 	},
 	{
 		"albumID": 89,
@@ -955,8 +868,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1969,
 		"genre": "SOUL",
-		"score": 90,
-		"listened": false
+		"score": 90
 	},
 	{
 		"albumID": 90,
@@ -966,8 +878,7 @@
 		"date": 1972,
 		"genre": "SOUL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/7vgpBNK5xPmS3Mu2Hl9O0D",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7vgpBNK5xPmS3Mu2Hl9O0D"
 	},
 	{
 		"albumID": 91,
@@ -977,8 +888,7 @@
 		"date": 1973,
 		"genre": "POP ROCK",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/2nvrxS8PAbs7NeADtRy4hb",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2nvrxS8PAbs7NeADtRy4hb"
 	},
 	{
 		"albumID": 92,
@@ -988,8 +898,7 @@
 		"date": 1978,
 		"genre": "ROCK & ROLL",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/4lg5pkJTjmPk0FWiViYN5z",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4lg5pkJTjmPk0FWiViYN5z"
 	},
 	{
 		"albumID": 93,
@@ -998,8 +907,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1987,
 		"genre": "R&B",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 94,
@@ -1009,8 +917,7 @@
 		"date": 1978,
 		"genre": "COUNTRY",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/6xSIkWmRSu7INDL0jf4WsN",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6xSIkWmRSu7INDL0jf4WsN"
 	},
 	{
 		"albumID": 95,
@@ -1020,8 +927,7 @@
 		"date": 1970,
 		"genre": "JAZZ FUSION",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/1wVO8nHzgcim0IBzbXnYX0",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1wVO8nHzgcim0IBzbXnYX0"
 	},
 	{
 		"albumID": 96,
@@ -1031,8 +937,7 @@
 		"date": 1969,
 		"genre": "ROCK",
 		"score": 70,
-		"spotify": "http://open.spotify.com/album/4u1zyMVuWys1zwhqtihsSn",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4u1zyMVuWys1zwhqtihsSn"
 	},
 	{
 		"albumID": 97,
@@ -1042,8 +947,7 @@
 		"date": 1963,
 		"genre": "FOLK",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/2P6XBRoQKaUatcyWlWEMwr",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2P6XBRoQKaUatcyWlWEMwr"
 	},
 	{
 		"albumID": 98,
@@ -1053,8 +957,7 @@
 		"date": 1978,
 		"genre": "NEW WAVE",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
 	},
 	{
 		"albumID": 99,
@@ -1064,8 +967,7 @@
 		"date": 1971,
 		"genre": "FUNK",
 		"score": 88,
-		"spotify": "http://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
 	},
 	{
 		"albumID": 100,
@@ -1075,8 +977,7 @@
 		"date": 1968,
 		"genre": "PSYCHEDELIC POP",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/54e11ifeQ7EmopoOBIyFiS",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/54e11ifeQ7EmopoOBIyFiS"
 	},
 	{
 		"albumID": 101,
@@ -1086,8 +987,7 @@
 		"date": 1955,
 		"genre": "VOCAL JAZZ",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
 	},
 	{
 		"albumID": 102,
@@ -1097,8 +997,7 @@
 		"date": 1966,
 		"genre": "BLUES ROCK",
 		"score": 70,
-		"spotify": "http://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
 	},
 	{
 		"albumID": 103,
@@ -1108,8 +1007,7 @@
 		"date": 1960,
 		"genre": "JAZZ",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3kxiL93hCFCIXkXJBLcYDi",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3kxiL93hCFCIXkXJBLcYDi"
 	},
 	{
 		"albumID": 104,
@@ -1118,8 +1016,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1970,
 		"genre": "SINGER-SONGWRITER",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 105,
@@ -1128,8 +1025,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/13273-modern-sounds-in-country-and-western-music.jpg",
 		"date": 1962,
 		"genre": "SOUL",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 106,
@@ -1139,8 +1035,7 @@
 		"date": 1977,
 		"genre": "PUNK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3SBh2kzao9z3gLCzOV45ho",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3SBh2kzao9z3gLCzOV45ho"
 	},
 	{
 		"albumID": 107,
@@ -1149,8 +1044,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/18487-portrait-of-a-legend-1951-1964.jpg",
 		"date": 2003,
 		"genre": "SOUL",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 108,
@@ -1160,8 +1054,7 @@
 		"date": 1971,
 		"genre": "GLAM ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/0vypdDHTQsoVmVu8OgXEly",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0vypdDHTQsoVmVu8OgXEly"
 	},
 	{
 		"albumID": 109,
@@ -1170,8 +1063,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/6009-aftermath.jpg",
 		"date": 1966,
 		"genre": "BLUES ROCK",
-		"score": 97,
-		"listened": false
+		"score": 97
 	},
 	{
 		"albumID": 110,
@@ -1181,8 +1073,7 @@
 		"date": 1970,
 		"genre": "POP ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/2j0dCo4JZEqWR4497WI1JA",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2j0dCo4JZEqWR4497WI1JA"
 	},
 	{
 		"albumID": 111,
@@ -1191,8 +1082,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/the-bends.jpg",
 		"date": 1995,
 		"genre": "ALTERNATIVE ROCK",
-		"score": 82,
-		"listened": false
+		"score": 82
 	},
 	{
 		"albumID": 112,
@@ -1202,8 +1092,7 @@
 		"date": 1966,
 		"genre": "POP ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
 	},
 	{
 		"albumID": 113,
@@ -1212,8 +1101,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1974,
 		"genre": "FOLK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 114,
@@ -1223,8 +1111,7 @@
 		"date": 1967,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
 	},
 	{
 		"albumID": 115,
@@ -1234,8 +1121,7 @@
 		"date": 1967,
 		"genre": "ROCK",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/2F1xWVnhjlYjaZ52XoO82E",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2F1xWVnhjlYjaZ52XoO82E"
 	},
 	{
 		"albumID": 116,
@@ -1245,8 +1131,7 @@
 		"date": 1965,
 		"genre": "ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/24V2ghp7XhGZzWKjthHq4v",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/24V2ghp7XhGZzWKjthHq4v"
 	},
 	{
 		"albumID": 117,
@@ -1255,8 +1140,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/6900-layla-and-other-assorted-love-songs.jpg",
 		"date": 1970,
 		"genre": "BLUES ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 118,
@@ -1264,8 +1148,7 @@
 		"artist": "Kanye West",
 		"date": 2005,
 		"genre": "HIP HOP",
-		"score": 82,
-		"listened": false
+		"score": 82
 	},
 	{
 		"albumID": 119,
@@ -1275,8 +1158,7 @@
 		"date": 1960,
 		"genre": "SOUL",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS"
 	},
 	{
 		"albumID": 120,
@@ -1285,8 +1167,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1968,
 		"genre": "COUNTRY",
-		"score": 93,
-		"listened": false
+		"score": 93
 	},
 	{
 		"albumID": 121,
@@ -1296,8 +1177,7 @@
 		"date": 1969,
 		"genre": "FUNK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
 	},
 	{
 		"albumID": 122,
@@ -1307,8 +1187,7 @@
 		"date": 1972,
 		"genre": "REGGAE",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3L6BeuI5Du0b7sl2AmYVGA",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3L6BeuI5Du0b7sl2AmYVGA"
 	},
 	{
 		"albumID": 123,
@@ -1318,8 +1197,7 @@
 		"date": 1986,
 		"genre": "HIP HOP",
 		"score": 92,
-		"spotify": "http://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
 	},
 	{
 		"albumID": 124,
@@ -1328,8 +1206,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/17372-moby-grape.jpg",
 		"date": 1967,
 		"genre": "FOLK ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 125,
@@ -1339,8 +1216,7 @@
 		"date": 1971,
 		"genre": "BLUES ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
 	},
 	{
 		"albumID": 126,
@@ -1349,8 +1225,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/catch-a-fire.jpg",
 		"date": 1973,
 		"genre": "REGGAE",
-		"score": 95,
-		"listened": false
+		"score": 95
 	},
 	{
 		"albumID": 127,
@@ -1360,8 +1235,7 @@
 		"date": 1967,
 		"genre": "FOLK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1"
 	},
 	{
 		"albumID": 128,
@@ -1371,8 +1245,7 @@
 		"date": 1973,
 		"genre": "PROTOPUNK",
 		"score": 99,
-		"spotify": "http://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
 	},
 	{
 		"albumID": 129,
@@ -1381,8 +1254,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1980,
 		"genre": "NEW WAVE",
-		"score": 98,
-		"listened": false
+		"score": 98
 	},
 	{
 		"albumID": 130,
@@ -1392,8 +1264,7 @@
 		"date": 1977,
 		"genre": "ART PUNK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
 	},
 	{
 		"albumID": 131,
@@ -1403,8 +1274,7 @@
 		"date": 1970,
 		"genre": "HEAVY METAL",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/714ndVxSx8lIWhQxdbcXIs",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/714ndVxSx8lIWhQxdbcXIs"
 	},
 	{
 		"albumID": 132,
@@ -1414,8 +1284,7 @@
 		"date": 1977,
 		"genre": "DISCO",
 		"score": 94,
-		"spotify": "http://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac"
 	},
 	{
 		"albumID": 133,
@@ -1424,8 +1293,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/5804-the-wild-the-innocent-the-e-street-shuffle.jpg",
 		"date": 1973,
 		"genre": "ROCK",
-		"score": 84,
-		"listened": false
+		"score": 84
 	},
 	{
 		"albumID": 134,
@@ -1434,8 +1302,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/ready-to-die.jpg",
 		"date": 1994,
 		"genre": "HIP HOP",
-		"score": 95,
-		"listened": false
+		"score": 95
 	},
 	{
 		"albumID": 135,
@@ -1445,8 +1312,7 @@
 		"date": 1992,
 		"genre": "INDIE ROCK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/3EdtFWfLmkT5mC1QFXgqIW",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3EdtFWfLmkT5mC1QFXgqIW"
 	},
 	{
 		"albumID": 136,
@@ -1456,8 +1322,7 @@
 		"date": 1974,
 		"genre": "POP ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/6T9u7scKy8yDe6V1QmXpoJ",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6T9u7scKy8yDe6V1QmXpoJ"
 	},
 	{
 		"albumID": 137,
@@ -1467,8 +1332,7 @@
 		"date": 1985,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 92,
-		"spotify": "http://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
 	},
 	{
 		"albumID": 138,
@@ -1477,8 +1341,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1992,
 		"genre": "HIP HOP",
-		"score": 90,
-		"listened": false
+		"score": 90
 	},
 	{
 		"albumID": 139,
@@ -1487,8 +1350,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1974,
 		"genre": "FUNK",
-		"score": 90,
-		"listened": false
+		"score": 90
 	},
 	{
 		"albumID": 140,
@@ -1498,8 +1360,7 @@
 		"date": 1978,
 		"genre": "NEW WAVE",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
 	},
 	{
 		"albumID": 141,
@@ -1509,8 +1370,7 @@
 		"date": 1965,
 		"genre": "BLUES",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3Vp5uEx8koFke8NyfElrlD",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3Vp5uEx8koFke8NyfElrlD"
 	},
 	{
 		"albumID": 142,
@@ -1520,8 +1380,7 @@
 		"date": 1963,
 		"genre": "CHRISTMAS",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
 	},
 	{
 		"albumID": 143,
@@ -1531,8 +1390,7 @@
 		"date": 1968,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
 	},
 	{
 		"albumID": 144,
@@ -1542,8 +1400,7 @@
 		"date": 1988,
 		"genre": "HIP HOP",
 		"score": 94,
-		"spotify": "http://open.spotify.com/album/12UO1VN1TffieQyDyzjivp",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/12UO1VN1TffieQyDyzjivp"
 	},
 	{
 		"albumID": 145,
@@ -1552,8 +1409,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/9039-aja.jpg",
 		"date": 1977,
 		"genre": "POP ROCK",
-		"score": 96,
-		"listened": false
+		"score": 96
 	},
 	{
 		"albumID": 146,
@@ -1563,8 +1419,7 @@
 		"date": 1967,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
 	},
 	{
 		"albumID": 147,
@@ -1574,8 +1429,7 @@
 		"date": 1970,
 		"genre": "FOLK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
 	},
 	{
 		"albumID": 148,
@@ -1585,8 +1439,7 @@
 		"date": 1973,
 		"genre": "ROCK",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/5phxHbK2GSr7hEu4orLywP",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5phxHbK2GSr7hEu4orLywP"
 	},
 	{
 		"albumID": 149,
@@ -1596,8 +1449,7 @@
 		"date": 1969,
 		"genre": "LATIN ROCK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu"
 	},
 	{
 		"albumID": 150,
@@ -1607,8 +1459,7 @@
 		"date": 1978,
 		"genre": "ROCK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
 	},
 	{
 		"albumID": 151,
@@ -1617,8 +1468,7 @@
 		"date": 2004,
 		"genre": "INDIE ROCK",
 		"score": 94,
-		"spotify": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH",
-		"listened": false
+		"spotify": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
 	},
 	{
 		"albumID": 152,
@@ -1628,8 +1478,7 @@
 		"date": 1979,
 		"genre": "NEW WAVE",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/0E8QJooKpBkU2PrNDx8JJc",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0E8QJooKpBkU2PrNDx8JJc"
 	},
 	{
 		"albumID": 153,
@@ -1639,8 +1488,7 @@
 		"date": 1991,
 		"genre": "HIP HOP",
 		"score": 92,
-		"spotify": "http://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
 	},
 	{
 		"albumID": 154,
@@ -1650,8 +1498,7 @@
 		"date": 1959,
 		"genre": "BLUES",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/7yf03jHwu4ony0nlnNOIPS",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7yf03jHwu4ony0nlnNOIPS"
 	},
 	{
 		"albumID": 155,
@@ -1661,8 +1508,7 @@
 		"date": 1980,
 		"genre": "NEW WAVE",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
 	},
 	{
 		"albumID": 156,
@@ -1672,8 +1518,7 @@
 		"date": 1989,
 		"genre": "HIP HOP",
 		"score": 94,
-		"spotify": "http://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
 	},
 	{
 		"albumID": 157,
@@ -1682,8 +1527,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1980,
 		"genre": "POST-PUNK",
-		"score": 95,
-		"listened": false
+		"score": 95
 	},
 	{
 		"albumID": 158,
@@ -1693,8 +1537,7 @@
 		"date": 1975,
 		"genre": "POP ROCK",
 		"score": 70,
-		"spotify": "http://open.spotify.com/album/2TMYlsU9a7v5Z0fXkmrlJC",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2TMYlsU9a7v5Z0fXkmrlJC"
 	},
 	{
 		"albumID": 159,
@@ -1704,8 +1547,7 @@
 		"date": 1975,
 		"genre": "HARD ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/3FTfw5GYHqu94WFjt92JTx",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3FTfw5GYHqu94WFjt92JTx"
 	},
 	{
 		"albumID": 160,
@@ -1715,8 +1557,7 @@
 		"date": 1971,
 		"genre": "GLAM ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/4Yw5uS8at8GkWmH2gZmLY0",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4Yw5uS8at8GkWmH2gZmLY0"
 	},
 	{
 		"albumID": 161,
@@ -1726,8 +1567,7 @@
 		"date": 1968,
 		"genre": "SOUL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
 	},
 	{
 		"albumID": 162,
@@ -1736,8 +1576,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1997,
 		"genre": "ALTERNATIVE ROCK",
-		"score": 94,
-		"listened": false
+		"score": 94
 	},
 	{
 		"albumID": 163,
@@ -1746,8 +1585,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1982,
 		"genre": "FUNK",
-		"score": 93,
-		"listened": false
+		"score": 93
 	},
 	{
 		"albumID": 164,
@@ -1755,8 +1593,7 @@
 		"artist": "Linda Ronstadt",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2002,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 165,
@@ -1766,8 +1603,7 @@
 		"date": 1973,
 		"genre": "SOUL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
 	},
 	{
 		"albumID": 166,
@@ -1776,8 +1612,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1982,
 		"genre": "POP ROCK",
-		"score": 93,
-		"listened": false
+		"score": 93
 	},
 	{
 		"albumID": 167,
@@ -1787,8 +1622,7 @@
 		"date": 1986,
 		"genre": "THRASH METAL",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/1X4kL66xwQWTH7sdvQm7Uz",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1X4kL66xwQWTH7sdvQm7Uz"
 	},
 	{
 		"albumID": 168,
@@ -1798,8 +1632,7 @@
 		"date": 1977,
 		"genre": "NEW WAVE",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/3d3I3Ppu529si8Oja9DB3A",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3d3I3Ppu529si8Oja9DB3A"
 	},
 	{
 		"albumID": 169,
@@ -1809,8 +1642,7 @@
 		"date": 1977,
 		"genre": "ROOTS REGGAE",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3q8y9MBuOdOzwJb8QJfwBG"
 	},
 	{
 		"albumID": 170,
@@ -1820,8 +1652,7 @@
 		"date": 1970,
 		"genre": "ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5V1pkEfNEIQKFsQi7XHgqM",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5V1pkEfNEIQKFsQi7XHgqM"
 	},
 	{
 		"albumID": 171,
@@ -1830,8 +1661,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1968,
 		"genre": "FOLK ROCK",
-		"score": 84,
-		"listened": false
+		"score": 84
 	},
 	{
 		"albumID": 172,
@@ -1840,8 +1670,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1971,
 		"genre": "ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 173,
@@ -1851,8 +1680,7 @@
 		"date": 1972,
 		"genre": "POP ROCK",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr"
 	},
 	{
 		"albumID": 174,
@@ -1862,8 +1690,7 @@
 		"date": 1976,
 		"genre": "ROCK",
 		"score": 79,
-		"spotify": "http://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
 	},
 	{
 		"albumID": 175,
@@ -1873,8 +1700,7 @@
 		"date": 1970,
 		"genre": "POP",
 		"score": 65,
-		"spotify": "http://open.spotify.com/album/12W640dvidMRkzymxpCdAb",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/12W640dvidMRkzymxpCdAb"
 	},
 	{
 		"albumID": 176,
@@ -1884,8 +1710,7 @@
 		"date": 1976,
 		"genre": "ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR"
 	},
 	{
 		"albumID": 177,
@@ -1894,8 +1719,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1978,
 		"genre": "FUNK",
-		"score": 87,
-		"listened": false
+		"score": 87
 	},
 	{
 		"albumID": 178,
@@ -1903,8 +1727,7 @@
 		"artist": "Curtis Mayfield & The Impressions",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1992,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 179,
@@ -1912,8 +1735,7 @@
 		"artist": "ABBA",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2001,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 180,
@@ -1923,8 +1745,7 @@
 		"date": 1965,
 		"genre": "BLUES ROCK",
 		"score": 89,
-		"spotify": "http://open.spotify.com/album/6CNXUyFKuhAjKIDsV3m6kZ",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6CNXUyFKuhAjKIDsV3m6kZ"
 	},
 	{
 		"albumID": 181,
@@ -1934,8 +1755,7 @@
 		"date": 1974,
 		"genre": "ROOTS REGGAE",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
 	},
 	{
 		"albumID": 182,
@@ -1945,8 +1765,7 @@
 		"date": 1975,
 		"genre": "POP ROCK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
 	},
 	{
 		"albumID": 183,
@@ -1956,8 +1775,7 @@
 		"date": 1975,
 		"genre": "COUNTRY",
 		"score": 96,
-		"spotify": "http://open.spotify.com/album/7HkbcOBlRm7emgETkj8SEn",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7HkbcOBlRm7emgETkj8SEn"
 	},
 	{
 		"albumID": 184,
@@ -1967,8 +1785,7 @@
 		"date": 1990,
 		"genre": "DANCE POP",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
 	},
 	{
 		"albumID": 185,
@@ -1978,8 +1795,7 @@
 		"date": 1969,
 		"genre": "GARAGE ROCK",
 		"score": 86,
-		"spotify": "http://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
 	},
 	{
 		"albumID": 186,
@@ -1989,8 +1805,7 @@
 		"date": 1973,
 		"genre": "FUNK",
 		"score": 83,
-		"spotify": "http://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
 	},
 	{
 		"albumID": 187,
@@ -2000,8 +1815,7 @@
 		"date": 1986,
 		"genre": "POP ROCK",
 		"score": 80,
-		"spotify": "http://open.spotify.com/album/7F6wMmeFIsNebw1ezQvSIO",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7F6wMmeFIsNebw1ezQvSIO"
 	},
 	{
 		"albumID": 188,
@@ -2011,8 +1825,7 @@
 		"date": 1967,
 		"genre": "FOLK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/7hez8jibf36E66GHpFkWz7",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
 	},
 	{
 		"albumID": 189,
@@ -2022,8 +1835,7 @@
 		"date": 1969,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
 	},
 	{
 		"albumID": 190,
@@ -2033,8 +1845,7 @@
 		"date": 1969,
 		"genre": "SOUL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/4k2rriJGUVzAILDyOURuaG",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4k2rriJGUVzAILDyOURuaG"
 	},
 	{
 		"albumID": 191,
@@ -2044,8 +1855,7 @@
 		"date": 1970,
 		"genre": "PROTOPUNK",
 		"score": 99,
-		"spotify": "http://open.spotify.com/album/3FTcomSFg2zWSqWLRgBYpv",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3FTcomSFg2zWSqWLRgBYpv"
 	},
 	{
 		"albumID": 192,
@@ -2054,8 +1864,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1969,
 		"genre": "COUNTRY",
-		"score": 93,
-		"listened": false
+		"score": 93
 	},
 	{
 		"albumID": 193,
@@ -2065,8 +1874,7 @@
 		"date": 1994,
 		"genre": "PUNK ROCK",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
 	},
 	{
 		"albumID": 194,
@@ -2076,8 +1884,7 @@
 		"date": 1972,
 		"genre": "GLAM ROCK",
 		"score": 84,
-		"spotify": "http://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1"
 	},
 	{
 		"albumID": 195,
@@ -2086,8 +1893,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1966,
 		"genre": "BLUES ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 196,
@@ -2096,8 +1902,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1972,
 		"genre": "GARAGE ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 197,
@@ -2107,8 +1912,7 @@
 		"date": 1983,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
 	},
 	{
 		"albumID": 198,
@@ -2116,8 +1920,7 @@
 		"artist": "Little Walter",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1958,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 199,
@@ -2126,8 +1929,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2001,
 		"genre": "INDIE ROCK",
-		"score": 87,
-		"listened": false
+		"score": 87
 	},
 	{
 		"albumID": 200,
@@ -2137,8 +1939,7 @@
 		"date": 1979,
 		"genre": "HARD ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/4jv5bYrqUpmuwW947jePuS",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4jv5bYrqUpmuwW947jePuS"
 	},
 	{
 		"albumID": 201,
@@ -2148,8 +1949,7 @@
 		"date": 1994,
 		"genre": "INDUSTRIAL ROCK",
 		"score": 77,
-		"spotify": "http://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
 	},
 	{
 		"albumID": 202,
@@ -2159,8 +1959,7 @@
 		"date": 1966,
 		"genre": "FOLK ROCK",
 		"score": 87,
-		"spotify": "http://open.spotify.com/album/5dqFVDJ9lPRBCqEzufd8sF",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5dqFVDJ9lPRBCqEzufd8sF"
 	},
 	{
 		"albumID": 203,
@@ -2169,8 +1968,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1987,
 		"genre": "POP",
-		"score": 84,
-		"listened": false
+		"score": 84
 	},
 	{
 		"albumID": 204,
@@ -2178,8 +1976,7 @@
 		"artist": "Bob Dylan",
 		"date": 2006,
 		"genre": "FOLK",
-		"score": 88,
-		"listened": false
+		"score": 88
 	},
 	{
 		"albumID": 205,
@@ -2189,8 +1986,7 @@
 		"date": 1968,
 		"genre": "BLUES ROCK",
 		"score": 80,
-		"spotify": "http://open.spotify.com/album/4M9csrFM1XVEpwMeYUBRmX",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4M9csrFM1XVEpwMeYUBRmX"
 	},
 	{
 		"albumID": 206,
@@ -2200,8 +1996,7 @@
 		"date": 1980,
 		"genre": "FUNK",
 		"score": 99,
-		"spotify": "http://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs"
 	},
 	{
 		"albumID": 207,
@@ -2211,8 +2006,7 @@
 		"date": 1970,
 		"genre": "LATIN ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/0bu1AKIUayt8AwoBujfsTM",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0bu1AKIUayt8AwoBujfsTM"
 	},
 	{
 		"albumID": 208,
@@ -2222,8 +2016,7 @@
 		"date": 1970,
 		"genre": "SINGER-SONGWRITER",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5avVGm5FNhp7EW3gGYi9UA",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5avVGm5FNhp7EW3gGYi9UA"
 	},
 	{
 		"albumID": 209,
@@ -2232,8 +2025,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1991,
 		"genre": "ALTERNATIVE ROCK",
-		"score": 87,
-		"listened": false
+		"score": 87
 	},
 	{
 		"albumID": 210,
@@ -2243,8 +2035,7 @@
 		"date": 1969,
 		"genre": "ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/70Yl2w1p00whfnC7fj94ox",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/70Yl2w1p00whfnC7fj94ox"
 	},
 	{
 		"albumID": 211,
@@ -2254,8 +2045,7 @@
 		"date": 1975,
 		"genre": "PROGRESSIVE ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/2NzyXZfWkRcFpsJ8phIjnl",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2NzyXZfWkRcFpsJ8phIjnl"
 	},
 	{
 		"albumID": 212,
@@ -2265,8 +2055,7 @@
 		"date": 1994,
 		"genre": "INDIE ROCK",
 		"score": 89,
-		"spotify": "http://open.spotify.com/album/6PeQUvedFj6OMlmBggv1Ce",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6PeQUvedFj6OMlmBggv1Ce"
 	},
 	{
 		"albumID": 213,
@@ -2276,8 +2065,7 @@
 		"date": 1981,
 		"genre": "ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/4F0eas0fmQSnb490QxZbD1",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4F0eas0fmQSnb490QxZbD1"
 	},
 	{
 		"albumID": 214,
@@ -2285,8 +2073,7 @@
 		"artist": "Ike & Tina Turner",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1991,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 215,
@@ -2296,8 +2083,7 @@
 		"date": 1973,
 		"genre": "GLAM ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
 	},
 	{
 		"albumID": 216,
@@ -2307,8 +2093,7 @@
 		"date": 1959,
 		"genre": "ROCK & ROLL",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/7tbvrQLsPwDA1iKIrcOQDf",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7tbvrQLsPwDA1iKIrcOQDf"
 	},
 	{
 		"albumID": 217,
@@ -2318,8 +2103,7 @@
 		"date": 1961,
 		"genre": "BLUES",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/2GpxAZDSVa28aomTvtUK72",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2GpxAZDSVa28aomTvtUK72"
 	},
 	{
 		"albumID": 218,
@@ -2329,8 +2113,7 @@
 		"date": 1986,
 		"genre": "JANGLE POP",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
 	},
 	{
 		"albumID": 219,
@@ -2340,8 +2123,7 @@
 		"date": 1986,
 		"genre": "HIP HOP",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/5izHWBylmEjk1yTVPAYJWj",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5izHWBylmEjk1yTVPAYJWj"
 	},
 	{
 		"albumID": 220,
@@ -2351,8 +2133,7 @@
 		"date": 1969,
 		"genre": "FUNK",
 		"score": 80,
-		"spotify": "http://open.spotify.com/album/6mGpQtwteyjKS4Up9tXuND",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6mGpQtwteyjKS4Up9tXuND"
 	},
 	{
 		"albumID": 221,
@@ -2361,8 +2142,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1991,
 		"genre": "SHOEGAZE",
-		"score": 93,
-		"listened": false
+		"score": 93
 	},
 	{
 		"albumID": 222,
@@ -2370,8 +2150,7 @@
 		"artist": "Professor Longhair",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1972,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 223,
@@ -2381,8 +2160,7 @@
 		"date": 1983,
 		"genre": "ROCK",
 		"score": 89,
-		"spotify": "http://open.spotify.com/album/4Saua162eaEOksYc8TrB74",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4Saua162eaEOksYc8TrB74"
 	},
 	{
 		"albumID": 224,
@@ -2390,8 +2168,7 @@
 		"artist": "Neil Diamond",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1999,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 225,
@@ -2401,8 +2178,7 @@
 		"date": 2004,
 		"genre": "POP PUNK",
 		"score": 76,
-		"spotify": "http://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
 	},
 	{
 		"albumID": 226,
@@ -2412,8 +2188,7 @@
 		"date": 1982,
 		"genre": "ROCK",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
 	},
 	{
 		"albumID": 227,
@@ -2422,8 +2197,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1989,
 		"genre": "ALTERNATIVE ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 228,
@@ -2433,8 +2207,7 @@
 		"date": 1987,
 		"genre": "HIP HOP",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/0KLF2pnqdq5fwUVVX2Lo2g",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0KLF2pnqdq5fwUVVX2Lo2g"
 	},
 	{
 		"albumID": 229,
@@ -2444,8 +2217,7 @@
 		"date": 1975,
 		"genre": "HARD ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
 	},
 	{
 		"albumID": 230,
@@ -2455,8 +2227,7 @@
 		"date": 1989,
 		"genre": "BLUES ROCK",
 		"score": 87,
-		"spotify": "http://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
 	},
 	{
 		"albumID": 231,
@@ -2466,8 +2237,7 @@
 		"date": 1975,
 		"genre": "HARD ROCK",
 		"score": 87,
-		"spotify": "http://open.spotify.com/album/1TSZDcvlPtAnekTaItI3qO",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1TSZDcvlPtAnekTaItI3qO"
 	},
 	{
 		"albumID": 232,
@@ -2475,8 +2245,7 @@
 		"artist": "The Kinks",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1972,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 233,
@@ -2486,8 +2255,7 @@
 		"date": 1965,
 		"genre": "FOLK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
 	},
 	{
 		"albumID": 234,
@@ -2497,8 +2265,7 @@
 		"date": 1968,
 		"genre": "FOLK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/0w95mjQhAQUGNqzy3OWcPw",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0w95mjQhAQUGNqzy3OWcPw"
 	},
 	{
 		"albumID": 235,
@@ -2506,8 +2273,7 @@
 		"artist": "Patsy Cline",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2000,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 236,
@@ -2515,8 +2281,7 @@
 		"artist": "Jackie Wilson",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1992,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 237,
@@ -2526,8 +2291,7 @@
 		"date": 1965,
 		"genre": "ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/0zN9LgK90X6gTeEajU7bCG",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0zN9LgK90X6gTeEajU7bCG"
 	},
 	{
 		"albumID": 238,
@@ -2536,8 +2300,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1962,
 		"genre": "BLUES",
-		"score": 90,
-		"listened": false
+		"score": 90
 	},
 	{
 		"albumID": 239,
@@ -2546,8 +2309,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1989,
 		"genre": "POP",
-		"score": 88,
-		"listened": false
+		"score": 88
 	},
 	{
 		"albumID": 240,
@@ -2557,8 +2319,7 @@
 		"date": 1972,
 		"genre": "POP ROCK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/0J13gY691Jb1LEgAnLtJGD",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0J13gY691Jb1LEgAnLtJGD"
 	},
 	{
 		"albumID": 241,
@@ -2568,8 +2329,7 @@
 		"date": 1984,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/4LwFCUyV4wM6SEg84PaLuL",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4LwFCUyV4wM6SEg84PaLuL"
 	},
 	{
 		"albumID": 242,
@@ -2578,8 +2338,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1984,
 		"genre": "HIP HOP",
-		"score": 91,
-		"listened": false
+		"score": 91
 	},
 	{
 		"albumID": 243,
@@ -2589,8 +2348,7 @@
 		"date": 1970,
 		"genre": "HEAVY METAL",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/714ndVxSx8lIWhQxdbcXIs",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/714ndVxSx8lIWhQxdbcXIs"
 	},
 	{
 		"albumID": 244,
@@ -2599,8 +2357,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2000,
 		"genre": "HIP HOP",
-		"score": 84,
-		"listened": false
+		"score": 84
 	},
 	{
 		"albumID": 245,
@@ -2608,8 +2365,7 @@
 		"artist": "Jerry Lee Lewis",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1993,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 246,
@@ -2618,8 +2374,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1966,
 		"genre": "EXPERIMENTAL",
-		"score": 90,
-		"listened": false
+		"score": 90
 	},
 	{
 		"albumID": 247,
@@ -2629,8 +2384,7 @@
 		"date": 1969,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/48pdNJ9i0DMrsSSYtmlXK2",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/48pdNJ9i0DMrsSSYtmlXK2"
 	},
 	{
 		"albumID": 248,
@@ -2640,8 +2394,7 @@
 		"date": 1959,
 		"genre": "AVANT-GARDE JAZZ",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
 	},
 	{
 		"albumID": 249,
@@ -2651,8 +2404,7 @@
 		"date": 1992,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf"
 	},
 	{
 		"albumID": 250,
@@ -2662,8 +2414,7 @@
 		"date": 1996,
 		"genre": "HIP HOP",
 		"score": 94,
-		"spotify": "http://open.spotify.com/album/5wx5RTvtRkEq7mw8E7RdEr",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5wx5RTvtRkEq7mw8E7RdEr"
 	},
 	{
 		"albumID": 251,
@@ -2672,8 +2423,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/5661-low.jpg",
 		"date": 1977,
 		"genre": "ART ROCK",
-		"score": 94,
-		"listened": false
+		"score": 94
 	},
 	{
 		"albumID": 252,
@@ -2682,8 +2432,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/the-blueprint.jpg",
 		"date": 2001,
 		"genre": "HIP HOP",
-		"score": 81,
-		"listened": false
+		"score": 81
 	},
 	{
 		"albumID": 253,
@@ -2693,8 +2442,7 @@
 		"date": 1980,
 		"genre": "ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/07cCVkVJqWtao9YzGTEQ5H",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/07cCVkVJqWtao9YzGTEQ5H"
 	},
 	{
 		"albumID": 254,
@@ -2703,8 +2451,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1966,
 		"genre": "SOUL",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 255,
@@ -2714,8 +2461,7 @@
 		"date": 1991,
 		"genre": "HEAVY METAL",
 		"score": 83,
-		"spotify": "http://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
 	},
 	{
 		"albumID": 256,
@@ -2725,8 +2471,7 @@
 		"date": 1977,
 		"genre": "PROGRESSIVE ELECTRONIC",
 		"score": 96,
-		"spotify": "http://open.spotify.com/album/0HHRIVjvBcnTepfeRVgS2f",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0HHRIVjvBcnTepfeRVgS2f"
 	},
 	{
 		"albumID": 257,
@@ -2736,8 +2481,7 @@
 		"date": 1985,
 		"genre": "POP",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
 	},
 	{
 		"albumID": 258,
@@ -2746,8 +2490,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1968,
 		"genre": "ROCK",
-		"score": 94,
-		"listened": false
+		"score": 94
 	},
 	{
 		"albumID": 259,
@@ -2757,8 +2500,7 @@
 		"date": 1997,
 		"genre": "R&B",
 		"score": 78,
-		"spotify": "http://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ"
 	},
 	{
 		"albumID": 260,
@@ -2768,8 +2510,7 @@
 		"date": 1978,
 		"genre": "STANDARDS",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/15vCn4sDpuQgQZfBrX9ZfZ",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/15vCn4sDpuQgQZfBrX9ZfZ"
 	},
 	{
 		"albumID": 261,
@@ -2779,8 +2520,7 @@
 		"date": 1970,
 		"genre": "FOLK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/25T0n6HXyrY7nfbIXcXfuD",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/25T0n6HXyrY7nfbIXcXfuD"
 	},
 	{
 		"albumID": 262,
@@ -2789,8 +2529,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1969,
 		"genre": "SINGER-SONGWRITER",
-		"score": 97,
-		"listened": false
+		"score": 97
 	},
 	{
 		"albumID": 263,
@@ -2799,8 +2538,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1988,
 		"genre": "SINGER-SONGWRITER",
-		"score": 91,
-		"listened": false
+		"score": 91
 	},
 	{
 		"albumID": 264,
@@ -2810,8 +2548,7 @@
 		"date": 1970,
 		"genre": "FOLK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/1EfxjgYkZEUUjwy0ydyvhB",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1EfxjgYkZEUUjwy0ydyvhB"
 	},
 	{
 		"albumID": 265,
@@ -2821,8 +2558,7 @@
 		"date": 1959,
 		"genre": "SOUL",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
 	},
 	{
 		"albumID": 266,
@@ -2831,8 +2567,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1968,
 		"genre": "PSYCHEDELIC POP",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 267,
@@ -2841,8 +2576,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1973,
 		"genre": "ROCK",
-		"score": 83,
-		"listened": false
+		"score": 83
 	},
 	{
 		"albumID": 268,
@@ -2852,8 +2586,7 @@
 		"date": 1972,
 		"genre": "SINGER-SONGWRITER",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
 	},
 	{
 		"albumID": 269,
@@ -2863,8 +2596,7 @@
 		"date": 1985,
 		"genre": "NOISE POP",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/2YUNV2XbvydCwHLTpBV5A0",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2YUNV2XbvydCwHLTpBV5A0"
 	},
 	{
 		"albumID": 270,
@@ -2874,8 +2606,7 @@
 		"date": 1978,
 		"genre": "ROCK",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
 	},
 	{
 		"albumID": 271,
@@ -2885,8 +2616,7 @@
 		"date": 1965,
 		"genre": "POP ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/1xPtXzS5yCbDAqC7pxRCaF",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1xPtXzS5yCbDAqC7pxRCaF"
 	},
 	{
 		"albumID": 272,
@@ -2896,8 +2626,7 @@
 		"date": 1997,
 		"genre": "INDIE ROCK",
 		"score": 87,
-		"spotify": "http://open.spotify.com/album/3fygVW5xqNoaGc95ClKFkc",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3fygVW5xqNoaGc95ClKFkc"
 	},
 	{
 		"albumID": 273,
@@ -2907,8 +2636,7 @@
 		"date": 1965,
 		"genre": "SOUL",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/44vQAruKA43qXJI1iiybOd",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/44vQAruKA43qXJI1iiybOd"
 	},
 	{
 		"albumID": 274,
@@ -2918,8 +2646,7 @@
 		"date": 1974,
 		"genre": "SOUL",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo"
 	},
 	{
 		"albumID": 275,
@@ -2929,8 +2656,7 @@
 		"date": 1999,
 		"genre": "HIP HOP",
 		"score": 75,
-		"spotify": "http://open.spotify.com/album/0JnN0ZgNrYxz3Gk725HiAd",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0JnN0ZgNrYxz3Gk725HiAd"
 	},
 	{
 		"albumID": 276,
@@ -2940,8 +2666,7 @@
 		"date": 1975,
 		"genre": "FUNK",
 		"score": 94,
-		"spotify": "http://open.spotify.com/album/734MC4wQsfNWsg9HLTrUoN",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/734MC4wQsfNWsg9HLTrUoN"
 	},
 	{
 		"albumID": 277,
@@ -2951,8 +2676,7 @@
 		"date": 1989,
 		"genre": "R&B",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/4OD3LU6001esAtFshDX46M",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
 	},
 	{
 		"albumID": 278,
@@ -2960,8 +2684,7 @@
 		"artist": "Various Artists",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1952,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 279,
@@ -2971,8 +2694,7 @@
 		"date": 1973,
 		"genre": "GLAM ROCK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/10gbq3XvTrtUSplDoTtsOb",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/10gbq3XvTrtUSplDoTtsOb"
 	},
 	{
 		"albumID": 280,
@@ -2982,8 +2704,7 @@
 		"date": 2000,
 		"genre": "ROCK",
 		"score": 74,
-		"spotify": "http://open.spotify.com/album/1RU8Q05flmfFoczPtuWoHv",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1RU8Q05flmfFoczPtuWoHv"
 	},
 	{
 		"albumID": 281,
@@ -2993,8 +2714,7 @@
 		"date": 1994,
 		"genre": "R&B",
 		"score": 78,
-		"spotify": "http://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
 	},
 	{
 		"albumID": 282,
@@ -3004,8 +2724,7 @@
 		"date": 1964,
 		"genre": "BLUES",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/5cLWh6nwcLUX2H4oGfW9Rx",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5cLWh6nwcLUX2H4oGfW9Rx"
 	},
 	{
 		"albumID": 283,
@@ -3015,8 +2734,7 @@
 		"date": 1974,
 		"genre": "SOUL",
 		"score": 80,
-		"spotify": "http://open.spotify.com/album/5gI5tMow9fEMhFk5zXdrbY",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5gI5tMow9fEMhFk5zXdrbY"
 	},
 	{
 		"albumID": 284,
@@ -3026,8 +2744,7 @@
 		"date": 1978,
 		"genre": "NEW WAVE",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
 	},
 	{
 		"albumID": 285,
@@ -3037,8 +2754,7 @@
 		"date": 1972,
 		"genre": "SOUL",
 		"score": 80,
-		"spotify": "http://open.spotify.com/album/2R29Bc6COLVmmjLmy94Ren",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2R29Bc6COLVmmjLmy94Ren"
 	},
 	{
 		"albumID": 286,
@@ -3048,8 +2764,7 @@
 		"date": 1972,
 		"genre": "SOUL",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/35sk1TGldszGdn9hWgFNPM",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/35sk1TGldszGdn9hWgFNPM"
 	},
 	{
 		"albumID": 287,
@@ -3059,8 +2774,7 @@
 		"date": 1980,
 		"genre": "PUNK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj"
 	},
 	{
 		"albumID": 288,
@@ -3070,8 +2784,7 @@
 		"date": 1968,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 83,
-		"spotify": "http://open.spotify.com/album/4ZaIo647CyWAgow8oxqajh",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4ZaIo647CyWAgow8oxqajh"
 	},
 	{
 		"albumID": 289,
@@ -3080,8 +2793,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1967,
 		"genre": "POP ROCK",
-		"score": 97,
-		"listened": false
+		"score": 97
 	},
 	{
 		"albumID": 290,
@@ -3091,8 +2803,7 @@
 		"date": 1973,
 		"genre": "SOUL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3xTMwUpTdMxuaKsXAG5svq",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3xTMwUpTdMxuaKsXAG5svq"
 	},
 	{
 		"albumID": 291,
@@ -3102,8 +2813,7 @@
 		"date": 1977,
 		"genre": "ART PUNK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
 	},
 	{
 		"albumID": 292,
@@ -3113,8 +2823,7 @@
 		"date": 1975,
 		"genre": "FOLK ROCK",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/6BOlD6UGUg45IsUXPSplkY",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6BOlD6UGUg45IsUXPSplkY"
 	},
 	{
 		"albumID": 293,
@@ -3123,8 +2832,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1968,
 		"genre": "EXPERIMENTAL ROCK",
-		"score": 88,
-		"listened": false
+		"score": 88
 	},
 	{
 		"albumID": 294,
@@ -3133,8 +2841,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1969,
 		"genre": "PROTOPUNK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 295,
@@ -3144,8 +2851,7 @@
 		"date": 1971,
 		"genre": "FOLK",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/1byP5MGkh5Pas7YuOtzd3I",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1byP5MGkh5Pas7YuOtzd3I"
 	},
 	{
 		"albumID": 296,
@@ -3155,8 +2861,7 @@
 		"date": 1985,
 		"genre": "JANGLE POP",
 		"score": 74,
-		"spotify": "http://open.spotify.com/album/6oi4mGQhn5ANx1rXP7aHda",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6oi4mGQhn5ANx1rXP7aHda"
 	},
 	{
 		"albumID": 297,
@@ -3166,8 +2871,7 @@
 		"date": 1968,
 		"genre": "PROGRESSIVE ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/0L8n5dW0KfoNnLuYfyOFPg",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0L8n5dW0KfoNnLuYfyOFPg"
 	},
 	{
 		"albumID": 298,
@@ -3176,8 +2880,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2004,
 		"genre": "HIP HOP",
-		"score": 83,
-		"listened": false
+		"score": 83
 	},
 	{
 		"albumID": 299,
@@ -3187,8 +2890,7 @@
 		"date": 1994,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
 	},
 	{
 		"albumID": 300,
@@ -3198,8 +2900,7 @@
 		"date": 1971,
 		"genre": "HEAVY METAL",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/6wGefWkaqP2Sh6L2Gi0zsI",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6wGefWkaqP2Sh6L2Gi0zsI"
 	},
 	{
 		"albumID": 301,
@@ -3209,8 +2910,7 @@
 		"date": 1971,
 		"genre": "COUNTRY",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/0ihBM9U8RmU99Z3amECh60",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0ihBM9U8RmU99Z3amECh60"
 	},
 	{
 		"albumID": 302,
@@ -3219,8 +2919,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/fear-of-a-black-planet.jpg",
 		"date": 1990,
 		"genre": "HIP HOP",
-		"score": 95,
-		"listened": false
+		"score": 95
 	},
 	{
 		"albumID": 303,
@@ -3230,8 +2929,7 @@
 		"date": 1967,
 		"genre": "FOLK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/2KzCDxKpgLqBffHu1IZ7Kn",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2KzCDxKpgLqBffHu1IZ7Kn"
 	},
 	{
 		"albumID": 304,
@@ -3241,8 +2939,7 @@
 		"date": 1994,
 		"genre": "SINGER-SONGWRITER",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD"
 	},
 	{
 		"albumID": 305,
@@ -3252,8 +2949,7 @@
 		"date": 1998,
 		"genre": "SINGER-SONGWRITER",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
 	},
 	{
 		"albumID": 306,
@@ -3263,8 +2959,7 @@
 		"date": 1996,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/6WRuVEXRc1sYlzBVBElBFq",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6WRuVEXRc1sYlzBVBElBFq"
 	},
 	{
 		"albumID": 307,
@@ -3274,8 +2969,7 @@
 		"date": 1964,
 		"genre": "POP ROCK",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D"
 	},
 	{
 		"albumID": 308,
@@ -3285,8 +2979,7 @@
 		"date": 1956,
 		"genre": "VOCAL JAZZ",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
 	},
 	{
 		"albumID": 309,
@@ -3296,8 +2989,7 @@
 		"date": 1969,
 		"genre": "ROOTS ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/2RE7a9nXiFL5mwnKIkFLzY",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2RE7a9nXiFL5mwnKIkFLzY"
 	},
 	{
 		"albumID": 310,
@@ -3306,8 +2998,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1991,
 		"genre": "ALTERNATIVE ROCK",
-		"score": 84,
-		"listened": false
+		"score": 84
 	},
 	{
 		"albumID": 311,
@@ -3315,8 +3006,7 @@
 		"artist": "Various Artists",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1994,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 312,
@@ -3326,8 +3016,7 @@
 		"date": 1988,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
 	},
 	{
 		"albumID": 313,
@@ -3337,8 +3026,7 @@
 		"date": 1994,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/1To7kv722A8SpZF789MZy7",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
 	},
 	{
 		"albumID": 314,
@@ -3348,8 +3036,7 @@
 		"date": 1998,
 		"genre": "R&B",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3"
 	},
 	{
 		"albumID": 315,
@@ -3359,8 +3046,7 @@
 		"date": 1979,
 		"genre": "HEARTLAND ROCK",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/2rfEqP6M51YN18YqqJZOv7",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2rfEqP6M51YN18YqqJZOv7"
 	},
 	{
 		"albumID": 316,
@@ -3370,8 +3056,7 @@
 		"date": 1969,
 		"genre": "POP ROCK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/1aERiG8Qvs5LgxplWi3fkL",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1aERiG8Qvs5LgxplWi3fkL"
 	},
 	{
 		"albumID": 317,
@@ -3381,8 +3066,7 @@
 		"date": 1988,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 89,
-		"spotify": "http://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2l7RPWC3E6eStJJLBsUeCI"
 	},
 	{
 		"albumID": 318,
@@ -3392,8 +3076,7 @@
 		"date": 1972,
 		"genre": "SOUL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
 	},
 	{
 		"albumID": 319,
@@ -3402,8 +3085,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1973,
 		"genre": "REGGAE",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 320,
@@ -3412,8 +3094,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2001,
 		"genre": "EXPERIMENTAL ROCK",
-		"score": 77,
-		"listened": false
+		"score": 77
 	},
 	{
 		"albumID": 321,
@@ -3423,8 +3104,7 @@
 		"date": 1972,
 		"genre": "FOLK",
 		"score": 96,
-		"spotify": "http://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg"
 	},
 	{
 		"albumID": 322,
@@ -3434,8 +3114,7 @@
 		"date": 1972,
 		"genre": "SINGER-SONGWRITER",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/7ojNQckNp7Tj2BkLJCiiUL",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7ojNQckNp7Tj2BkLJCiiUL"
 	},
 	{
 		"albumID": 323,
@@ -3445,8 +3124,7 @@
 		"date": 1981,
 		"genre": "NEW WAVE",
 		"score": 75,
-		"spotify": "http://open.spotify.com/album/2ccrabRMmY1gECUdyqblP2",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2ccrabRMmY1gECUdyqblP2"
 	},
 	{
 		"albumID": 324,
@@ -3456,8 +3134,7 @@
 		"date": 1976,
 		"genre": "ART ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/7Ce9NBNo6wHUKbvZS41NOH",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7Ce9NBNo6wHUKbvZS41NOH"
 	},
 	{
 		"albumID": 325,
@@ -3467,8 +3144,7 @@
 		"date": 1977,
 		"genre": "BLUES ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT"
 	},
 	{
 		"albumID": 326,
@@ -3478,8 +3154,7 @@
 		"date": 1989,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 87,
-		"spotify": "http://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
 	},
 	{
 		"albumID": 327,
@@ -3489,8 +3164,7 @@
 		"date": 1993,
 		"genre": "INDIE ROCK",
 		"score": 96,
-		"spotify": "http://open.spotify.com/album/3DRlG4ezNna6WCi3uPGcDL",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3DRlG4ezNna6WCi3uPGcDL"
 	},
 	{
 		"albumID": 328,
@@ -3500,8 +3174,7 @@
 		"date": 1988,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 92,
-		"spotify": "http://open.spotify.com/album/0n6dZEvzLUq0qUm5e8zFn5",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0n6dZEvzLUq0qUm5e8zFn5"
 	},
 	{
 		"albumID": 329,
@@ -3511,8 +3184,7 @@
 		"date": 1986,
 		"genre": "FUNK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/5txq0YcojxIMHOjXUGDXiD",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5txq0YcojxIMHOjXUGDXiD"
 	},
 	{
 		"albumID": 330,
@@ -3522,8 +3194,7 @@
 		"date": 1975,
 		"genre": "ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5FTx6W84UUU14n29QV4saY",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5FTx6W84UUU14n29QV4saY"
 	},
 	{
 		"albumID": 331,
@@ -3533,8 +3204,7 @@
 		"date": 1965,
 		"genre": "POP ROCK",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/4nBRPXEj3bqlkOSDchHxAf",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4nBRPXEj3bqlkOSDchHxAf"
 	},
 	{
 		"albumID": 332,
@@ -3543,8 +3213,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1982,
 		"genre": "FOLK ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 333,
@@ -3554,8 +3223,7 @@
 		"date": 1981,
 		"genre": "PUNK ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/6a3a1We83O9GOK6S4EyqiP",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6a3a1We83O9GOK6S4EyqiP"
 	},
 	{
 		"albumID": 334,
@@ -3563,8 +3231,7 @@
 		"artist": "Graham Parker",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1979,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 335,
@@ -3574,8 +3241,7 @@
 		"date": 1994,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/4SPc25NzdqOQt2IX4JDLUv",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4SPc25NzdqOQt2IX4JDLUv"
 	},
 	{
 		"albumID": 336,
@@ -3583,8 +3249,7 @@
 		"artist": "Radiohead",
 		"date": 2007,
 		"genre": "ALTERNATIVE ROCK",
-		"score": 88,
-		"listened": false
+		"score": 88
 	},
 	{
 		"albumID": 337,
@@ -3594,8 +3259,7 @@
 		"date": 1971,
 		"genre": "PROGRESSIVE ROCK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x"
 	},
 	{
 		"albumID": 338,
@@ -3605,8 +3269,7 @@
 		"date": 1968,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
 	},
 	{
 		"albumID": 339,
@@ -3616,8 +3279,7 @@
 		"date": 1974,
 		"genre": "SINGER-SONGWRITER",
 		"score": 75,
-		"spotify": "http://open.spotify.com/album/7MLzdbFViVmpQdnNmxQXoE",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7MLzdbFViVmpQdnNmxQXoE"
 	},
 	{
 		"albumID": 340,
@@ -3627,8 +3289,7 @@
 		"date": 1981,
 		"genre": "HARDCORE PUNK",
 		"score": 94,
-		"spotify": "http://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
 	},
 	{
 		"albumID": 341,
@@ -3638,8 +3299,7 @@
 		"date": 1999,
 		"genre": "ELECTRONIC",
 		"score": 83,
-		"spotify": "http://open.spotify.com/album/1ZFjvEN3C2J1Q1xVhu2YaC",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1ZFjvEN3C2J1Q1xVhu2YaC"
 	},
 	{
 		"albumID": 342,
@@ -3648,8 +3308,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1990,
 		"genre": "SYNTHPOP",
-		"score": 81,
-		"listened": false
+		"score": 81
 	},
 	{
 		"albumID": 343,
@@ -3659,8 +3318,7 @@
 		"date": 1977,
 		"genre": "POP ROCK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/4E02XFsMHBp8NLM39pCbhq",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4E02XFsMHBp8NLM39pCbhq"
 	},
 	{
 		"albumID": 344,
@@ -3670,8 +3328,7 @@
 		"date": 1973,
 		"genre": "ART ROCK",
 		"score": 81,
-		"spotify": "http://open.spotify.com/album/5rehZDPx763Ubeafy4mBT0",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5rehZDPx763Ubeafy4mBT0"
 	},
 	{
 		"albumID": 345,
@@ -3681,8 +3338,7 @@
 		"date": 1984,
 		"genre": "NEW WAVE",
 		"score": 75,
-		"spotify": "http://open.spotify.com/album/6dzfDCvCXlD1uTTIWlCBvq",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6dzfDCvCXlD1uTTIWlCBvq"
 	},
 	{
 		"albumID": 346,
@@ -3691,8 +3347,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1989,
 		"genre": "HIP HOP",
-		"score": 90,
-		"listened": false
+		"score": 90
 	},
 	{
 		"albumID": 347,
@@ -3702,8 +3357,7 @@
 		"date": 1967,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/4Qgz29mI2wJFD1tbnXqj7V",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4Qgz29mI2wJFD1tbnXqj7V"
 	},
 	{
 		"albumID": 348,
@@ -3713,8 +3367,7 @@
 		"date": 1960,
 		"genre": "BLUES",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/52tdxLPKMhy2FrpLg1vjoC",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/52tdxLPKMhy2FrpLg1vjoC"
 	},
 	{
 		"albumID": 349,
@@ -3723,8 +3376,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2003,
 		"genre": "HIP HOP",
-		"score": 78,
-		"listened": false
+		"score": 78
 	},
 	{
 		"albumID": 350,
@@ -3734,8 +3386,7 @@
 		"date": 1966,
 		"genre": "BLUES ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/4ZAedaXhVje6nZwP8viyd5",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4ZAedaXhVje6nZwP8viyd5"
 	},
 	{
 		"albumID": 351,
@@ -3745,8 +3396,7 @@
 		"date": 1979,
 		"genre": "FOLK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5m2MQk77aAXPhwI6Ges8X5",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5m2MQk77aAXPhwI6Ges8X5"
 	},
 	{
 		"albumID": 352,
@@ -3756,8 +3406,7 @@
 		"date": 1985,
 		"genre": "POP ROCK",
 		"score": 80,
-		"spotify": "http://open.spotify.com/album/0u7sgzvlLmPLvujXxy9EeY",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0u7sgzvlLmPLvujXxy9EeY"
 	},
 	{
 		"albumID": 353,
@@ -3765,8 +3414,7 @@
 		"artist": "Kanye West",
 		"date": 2010,
 		"genre": "HIP HOP",
-		"score": 91,
-		"listened": false
+		"score": 91
 	},
 	{
 		"albumID": 354,
@@ -3776,8 +3424,7 @@
 		"date": 1978,
 		"genre": "POP ROCK",
 		"score": 70,
-		"spotify": "http://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
 	},
 	{
 		"albumID": 355,
@@ -3786,8 +3433,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1965,
 		"genre": "BLUES ROCK",
-		"score": 90,
-		"listened": false
+		"score": 90
 	},
 	{
 		"albumID": 356,
@@ -3797,8 +3443,7 @@
 		"date": 1970,
 		"genre": "SINGER-SONGWRITER",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3HhJGNadZnFCkAYrPgSuVR",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3HhJGNadZnFCkAYrPgSuVR"
 	},
 	{
 		"albumID": 357,
@@ -3808,8 +3453,7 @@
 		"date": 1967,
 		"genre": "POP ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/7jJOrLkw63nqCpzE4NWWSv",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7jJOrLkw63nqCpzE4NWWSv"
 	},
 	{
 		"albumID": 358,
@@ -3819,8 +3463,7 @@
 		"date": 1960,
 		"genre": "JAZZ",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/4Gg3siRefHW8r2CndJxIiJ",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4Gg3siRefHW8r2CndJxIiJ"
 	},
 	{
 		"albumID": 359,
@@ -3830,8 +3473,7 @@
 		"date": 1972,
 		"genre": "POP ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6"
 	},
 	{
 		"albumID": 360,
@@ -3841,8 +3483,7 @@
 		"date": 1979,
 		"genre": "PUNK ROCK",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/2P0baUWHo9FQ5No7QjpCO7",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2P0baUWHo9FQ5No7QjpCO7"
 	},
 	{
 		"albumID": 361,
@@ -3852,8 +3493,7 @@
 		"date": 2000,
 		"genre": "HIP HOP",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
 	},
 	{
 		"albumID": 362,
@@ -3863,8 +3503,7 @@
 		"date": 1993,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/4LM0Xz37nLClzcQUvWiGoL",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4LM0Xz37nLClzcQUvWiGoL"
 	},
 	{
 		"albumID": 363,
@@ -3873,8 +3512,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1987,
 		"genre": "POST-PUNK",
-		"score": 87,
-		"listened": false
+		"score": 87
 	},
 	{
 		"albumID": 364,
@@ -3884,8 +3522,7 @@
 		"date": 1971,
 		"genre": "BLUES ROCK",
 		"score": 82,
-		"spotify": "http://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
 	},
 	{
 		"albumID": 365,
@@ -3895,8 +3532,7 @@
 		"date": 1992,
 		"genre": "ALTERNATIVE METAL",
 		"score": 94,
-		"spotify": "http://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul"
 	},
 	{
 		"albumID": 366,
@@ -3906,8 +3542,7 @@
 		"date": 1994,
 		"genre": "COUNTRY",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/6CZDZF62t8QaXEVPZNiwKN",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6CZDZF62t8QaXEVPZNiwKN"
 	},
 	{
 		"albumID": 367,
@@ -3916,8 +3551,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1998,
 		"genre": "POP",
-		"score": 84,
-		"listened": false
+		"score": 84
 	},
 	{
 		"albumID": 368,
@@ -3927,8 +3561,7 @@
 		"date": 1972,
 		"genre": "FOLK ROCK",
 		"score": 65,
-		"spotify": "http://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
 	},
 	{
 		"albumID": 369,
@@ -3938,8 +3571,7 @@
 		"date": 1987,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
 	},
 	{
 		"albumID": 370,
@@ -3949,8 +3581,7 @@
 		"date": 1973,
 		"genre": "GLAM ROCK",
 		"score": 87,
-		"spotify": "http://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
 	},
 	{
 		"albumID": 371,
@@ -3958,8 +3589,7 @@
 		"artist": "Arctic Monkeys",
 		"date": 2006,
 		"genre": "INDIE ROCK",
-		"score": 81,
-		"listened": false
+		"score": 81
 	},
 	{
 		"albumID": 372,
@@ -3969,8 +3599,7 @@
 		"date": 1979,
 		"genre": "NEW WAVE",
 		"score": 60,
-		"spotify": "http://open.spotify.com/album/5fMAuIxI96lqdSPqUGwlXd",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5fMAuIxI96lqdSPqUGwlXd"
 	},
 	{
 		"albumID": 373,
@@ -3980,8 +3609,7 @@
 		"date": 1969,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/5SxBU3zQaLOq5eapsG3jFQ",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5SxBU3zQaLOq5eapsG3jFQ"
 	},
 	{
 		"albumID": 374,
@@ -3991,8 +3619,7 @@
 		"date": 1975,
 		"genre": "GLAM ROCK",
 		"score": 84,
-		"spotify": "http://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
 	},
 	{
 		"albumID": 375,
@@ -4002,8 +3629,7 @@
 		"date": 1974,
 		"genre": "SINGER-SONGWRITER",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
 	},
 	{
 		"albumID": 376,
@@ -4013,8 +3639,7 @@
 		"date": 1995,
 		"genre": "ART POP",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/51LMZCfC9erobzqcVNWYNE",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/51LMZCfC9erobzqcVNWYNE"
 	},
 	{
 		"albumID": 377,
@@ -4022,8 +3647,7 @@
 		"artist": "John Lee Hooker",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1991,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 378,
@@ -4032,8 +3656,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1995,
 		"genre": "BRITPOP",
-		"score": 85,
-		"listened": false
+		"score": 85
 	},
 	{
 		"albumID": 379,
@@ -4043,8 +3666,7 @@
 		"date": 1994,
 		"genre": "R&B",
 		"score": 88,
-		"spotify": "http://open.spotify.com/album/5eg56dCpFn32neJak2vk0f",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
 	},
 	{
 		"albumID": 380,
@@ -4054,8 +3676,7 @@
 		"date": 1972,
 		"genre": "REGGAE",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/4RTp4b4gEQyWgh7biF8X7G",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4RTp4b4gEQyWgh7biF8X7G"
 	},
 	{
 		"albumID": 381,
@@ -4065,8 +3686,7 @@
 		"date": 2011,
 		"genre": "BAROQUE POP",
 		"score": 96,
-		"spotify": "http://open.spotify.com/album/01TG7VOg4F90jXv3a1yCgA",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/01TG7VOg4F90jXv3a1yCgA"
 	},
 	{
 		"albumID": 382,
@@ -4076,8 +3696,7 @@
 		"date": 1976,
 		"genre": "PROTOPUNK",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/0rDZnRNmBDHnHiuHwaa3xK",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0rDZnRNmBDHnHiuHwaa3xK"
 	},
 	{
 		"albumID": 383,
@@ -4086,8 +3705,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1978,
 		"genre": "POST-PUNK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 384,
@@ -4097,8 +3715,7 @@
 		"date": 1966,
 		"genre": "ROCK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/0tLm9oyw4uz02ZHJDBRdmM",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0tLm9oyw4uz02ZHJDBRdmM"
 	},
 	{
 		"albumID": 385,
@@ -4108,8 +3725,7 @@
 		"date": 2001,
 		"genre": "SINGER-SONGWRITER",
 		"score": 83,
-		"spotify": "http://open.spotify.com/album/5OokwFyEXPnD71rQdhqRQL",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5OokwFyEXPnD71rQdhqRQL"
 	},
 	{
 		"albumID": 386,
@@ -4119,8 +3735,7 @@
 		"date": 1974,
 		"genre": "POP ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/0RijmFWeKvzWnceR6Ku00X",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0RijmFWeKvzWnceR6Ku00X"
 	},
 	{
 		"albumID": 387,
@@ -4130,8 +3745,7 @@
 		"date": 1993,
 		"genre": "HIP HOP",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
 	},
 	{
 		"albumID": 388,
@@ -4139,8 +3753,7 @@
 		"artist": "Various Artists",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1985,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 389,
@@ -4150,8 +3763,7 @@
 		"date": 1989,
 		"genre": "POP ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
 	},
 	{
 		"albumID": 390,
@@ -4160,8 +3772,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2003,
 		"genre": "GARAGE ROCK",
-		"score": 79,
-		"listened": false
+		"score": 79
 	},
 	{
 		"albumID": 391,
@@ -4171,8 +3782,7 @@
 		"date": 1976,
 		"genre": "SINGER-SONGWRITER",
 		"score": 70,
-		"spotify": "http://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8"
 	},
 	{
 		"albumID": 392,
@@ -4182,8 +3792,7 @@
 		"date": 1970,
 		"genre": "POP ROCK",
 		"score": 80,
-		"spotify": "http://open.spotify.com/album/6i6N7pMAJpUEAKccxPqH2p",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6i6N7pMAJpUEAKccxPqH2p"
 	},
 	{
 		"albumID": 393,
@@ -4191,8 +3800,7 @@
 		"artist": "M.I.A.",
 		"date": 2007,
 		"genre": "ELECTROPOP",
-		"score": 85,
-		"listened": false
+		"score": 85
 	},
 	{
 		"albumID": 394,
@@ -4202,8 +3810,7 @@
 		"date": 1974,
 		"genre": "SINGER-SONGWRITER",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/4UY90kcO4N9ZPBl4xPLvvU",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4UY90kcO4N9ZPBl4xPLvvU"
 	},
 	{
 		"albumID": 395,
@@ -4212,8 +3819,7 @@
 		"date": 2007,
 		"genre": "DANCE PUNK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
 	},
 	{
 		"albumID": 396,
@@ -4223,8 +3829,7 @@
 		"date": 1973,
 		"genre": "GLAM ROCK",
 		"score": 97,
-		"spotify": "http://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29"
 	},
 	{
 		"albumID": 397,
@@ -4234,8 +3839,7 @@
 		"date": 1991,
 		"genre": "TRIP HOP",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/3oUpZKrR0Z8DK7ud3S8a2M",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3oUpZKrR0Z8DK7ud3S8a2M"
 	},
 	{
 		"albumID": 398,
@@ -4245,8 +3849,7 @@
 		"date": 1983,
 		"genre": "HARD ROCK",
 		"score": 75,
-		"spotify": "http://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
 	},
 	{
 		"albumID": 399,
@@ -4255,8 +3858,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1985,
 		"genre": "ROCK",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 400,
@@ -4264,8 +3866,7 @@
 		"artist": "The Temptations",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1995,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 401,
@@ -4275,8 +3876,7 @@
 		"date": 1999,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 74,
-		"spotify": "http://open.spotify.com/album/25BlKp11lnJt9TKbFoKLSj",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/25BlKp11lnJt9TKbFoKLSj"
 	},
 	{
 		"albumID": 402,
@@ -4285,8 +3885,7 @@
 		"image": "https://cdn.albumoftheyear.org/album/thumbs/illmatic.jpg",
 		"date": 1994,
 		"genre": "HIP HOP",
-		"score": 94,
-		"listened": false
+		"score": 94
 	},
 	{
 		"albumID": 403,
@@ -4296,8 +3895,7 @@
 		"date": 1973,
 		"genre": "SOUTHERN ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/2zXk4S0XW1SFWljU0KCsgw",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2zXk4S0XW1SFWljU0KCsgw"
 	},
 	{
 		"albumID": 404,
@@ -4305,8 +3903,7 @@
 		"artist": "Dr. John",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1972,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 405,
@@ -4316,8 +3913,7 @@
 		"date": 1974,
 		"genre": "POWER POP",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/4lZSX0E1dcg1bi5T4BzWf0",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4lZSX0E1dcg1bi5T4BzWf0"
 	},
 	{
 		"albumID": 406,
@@ -4326,8 +3922,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1993,
 		"genre": "ALTERNATIVE ROCK",
-		"score": 71,
-		"listened": false
+		"score": 71
 	},
 	{
 		"albumID": 407,
@@ -4337,8 +3932,7 @@
 		"date": 1980,
 		"genre": "PUNK",
 		"score": 75,
-		"spotify": "http://open.spotify.com/album/2NQ880NhsgsxYXLdAxMBKg",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2NQ880NhsgsxYXLdAxMBKg"
 	},
 	{
 		"albumID": 408,
@@ -4348,8 +3942,7 @@
 		"date": 1990,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/2azjbHOg6mdA5ABoyZOH4F",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2azjbHOg6mdA5ABoyZOH4F"
 	},
 	{
 		"albumID": 409,
@@ -4359,8 +3952,7 @@
 		"date": 1967,
 		"genre": "PSYCHEDELIC ROCK",
 		"score": 77,
-		"spotify": "http://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
 	},
 	{
 		"albumID": 410,
@@ -4370,8 +3962,7 @@
 		"date": 1997,
 		"genre": "SINGER-SONGWRITER",
 		"score": 88,
-		"spotify": "http://open.spotify.com/album/185DHT5SvszXRrezx3lOjt",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
 	},
 	{
 		"albumID": 411,
@@ -4381,8 +3972,7 @@
 		"date": 1974,
 		"genre": "BLUES ROCK",
 		"score": 95,
-		"spotify": "http://open.spotify.com/album/3Xp9oqOrXswimE8eD02Wty",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3Xp9oqOrXswimE8eD02Wty"
 	},
 	{
 		"albumID": 412,
@@ -4392,8 +3982,7 @@
 		"date": 1977,
 		"genre": "ART PUNK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/2XypKUg8tyn0ZRxxJwrxnP",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2XypKUg8tyn0ZRxxJwrxnP"
 	},
 	{
 		"albumID": 413,
@@ -4403,8 +3992,7 @@
 		"date": 1984,
 		"genre": "POST-PUNK",
 		"score": 88,
-		"spotify": "http://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
 	},
 	{
 		"albumID": 414,
@@ -4414,8 +4002,7 @@
 		"date": 1981,
 		"genre": "NEW WAVE",
 		"score": 83,
-		"spotify": "http://open.spotify.com/album/1nkB6F63xkKusB4M8I5zR6",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1nkB6F63xkKusB4M8I5zR6"
 	},
 	{
 		"albumID": 415,
@@ -4425,8 +4012,7 @@
 		"date": 1978,
 		"genre": "HARD ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x"
 	},
 	{
 		"albumID": 416,
@@ -4436,8 +4022,7 @@
 		"date": 1999,
 		"genre": "SINGER-SONGWRITER",
 		"score": 75,
-		"spotify": "http://open.spotify.com/album/3HbiZpp2QwPU1Y4eweEStW",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3HbiZpp2QwPU1Y4eweEStW"
 	},
 	{
 		"albumID": 417,
@@ -4447,8 +4032,7 @@
 		"date": 1980,
 		"genre": "POST-PUNK",
 		"score": 77,
-		"spotify": "http://open.spotify.com/album/4K3si8oMcneYTxBSLachBo",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4K3si8oMcneYTxBSLachBo"
 	},
 	{
 		"albumID": 418,
@@ -4457,8 +4041,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1973,
 		"genre": "ROCK",
-		"score": 90,
-		"listened": false
+		"score": 90
 	},
 	{
 		"albumID": 419,
@@ -4467,8 +4050,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1994,
 		"genre": "TRIP HOP",
-		"score": 91,
-		"listened": false
+		"score": 91
 	},
 	{
 		"albumID": 420,
@@ -4478,8 +4060,7 @@
 		"date": 1957,
 		"genre": "ROCK & ROLL",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5JGitb0tOKRHXRYULxaP7N",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5JGitb0tOKRHXRYULxaP7N"
 	},
 	{
 		"albumID": 421,
@@ -4487,8 +4068,7 @@
 		"artist": "Various Artists",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1990,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 422,
@@ -4498,8 +4078,7 @@
 		"date": 1964,
 		"genre": "ROCK & ROLL",
 		"score": 60,
-		"spotify": "http://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy"
 	},
 	{
 		"albumID": 423,
@@ -4507,8 +4086,7 @@
 		"artist": "The Supremes",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1974,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 424,
@@ -4518,8 +4096,7 @@
 		"date": 2002,
 		"genre": "ROCK",
 		"score": 79,
-		"spotify": "http://open.spotify.com/album/25vTmWaczSrAsoe3bBjgjx",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/25vTmWaczSrAsoe3bBjgjx"
 	},
 	{
 		"albumID": 425,
@@ -4529,8 +4106,7 @@
 		"date": 1974,
 		"genre": "SINGER-SONGWRITER",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
 	},
 	{
 		"albumID": 426,
@@ -4540,8 +4116,7 @@
 		"date": 1978,
 		"genre": "POWER POP",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5ttDbNMKXczvp0Z8QRgKs6",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5ttDbNMKXczvp0Z8QRgKs6"
 	},
 	{
 		"albumID": 427,
@@ -4549,8 +4124,7 @@
 		"artist": "Peter Wolf",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2002,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 428,
@@ -4560,8 +4134,7 @@
 		"date": 1978,
 		"genre": "NEW WAVE",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/3D9JqZG5Q1ptOJr8ZQ0j7I",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3D9JqZG5Q1ptOJr8ZQ0j7I"
 	},
 	{
 		"albumID": 429,
@@ -4571,8 +4144,7 @@
 		"date": 1975,
 		"genre": "ART ROCK",
 		"score": 99,
-		"spotify": "http://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY"
 	},
 	{
 		"albumID": 430,
@@ -4581,8 +4153,7 @@
 		"date": 2008,
 		"genre": "INDIE POP",
 		"score": 82,
-		"spotify": "http://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F"
 	},
 	{
 		"albumID": 431,
@@ -4592,8 +4163,7 @@
 		"date": 2000,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 74,
-		"spotify": "http://open.spotify.com/album/1juaKifFulnYa2ygjvlAUU",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1juaKifFulnYa2ygjvlAUU"
 	},
 	{
 		"albumID": 432,
@@ -4603,8 +4173,7 @@
 		"date": 1974,
 		"genre": "ART ROCK",
 		"score": 94,
-		"spotify": "http://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi"
 	},
 	{
 		"albumID": 433,
@@ -4614,8 +4183,7 @@
 		"date": 1970,
 		"genre": "ROCK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7I2wUjVsMFGVaJvchEzXSP"
 	},
 	{
 		"albumID": 434,
@@ -4625,8 +4193,7 @@
 		"date": 1972,
 		"genre": "POWER POP",
 		"score": 94,
-		"spotify": "http://open.spotify.com/album/4lZSX0E1dcg1bi5T4BzWf0",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4lZSX0E1dcg1bi5T4BzWf0"
 	},
 	{
 		"albumID": 435,
@@ -4635,8 +4202,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1993,
 		"genre": "GRUNGE",
-		"score": 88,
-		"listened": false
+		"score": 88
 	},
 	{
 		"albumID": 436,
@@ -4646,8 +4212,7 @@
 		"date": 2002,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 86,
-		"spotify": "http://open.spotify.com/album/69Wr9DvWfIJRTi5NUGeVTn",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/69Wr9DvWfIJRTi5NUGeVTn"
 	},
 	{
 		"albumID": 437,
@@ -4656,8 +4221,7 @@
 		"date": 2008,
 		"genre": "HIP HOP",
 		"score": 80,
-		"spotify": "http://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
 	},
 	{
 		"albumID": 438,
@@ -4666,8 +4230,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1980,
 		"genre": "ALTERNATIVE ROCK",
-		"score": 80,
-		"listened": false
+		"score": 80
 	},
 	{
 		"albumID": 439,
@@ -4675,8 +4238,7 @@
 		"artist": "Sam Cooke",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1985,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 440,
@@ -4685,8 +4247,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1985,
 		"genre": "FOLK PUNK",
-		"score": 87,
-		"listened": false
+		"score": 87
 	},
 	{
 		"albumID": 441,
@@ -4696,8 +4257,7 @@
 		"date": 1977,
 		"genre": "NO WAVE",
 		"score": 94,
-		"spotify": "http://open.spotify.com/album/4NUiBDtSFsIQ53J5PN7j2s",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4NUiBDtSFsIQ53J5PN7j2s"
 	},
 	{
 		"albumID": 442,
@@ -4707,8 +4267,7 @@
 		"date": 1978,
 		"genre": "NEW WAVE",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
 	},
 	{
 		"albumID": 443,
@@ -4718,8 +4277,7 @@
 		"date": 1977,
 		"genre": "HARD ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/1NXkEAlqn9gKy2fJ9pegeQ",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1NXkEAlqn9gKy2fJ9pegeQ"
 	},
 	{
 		"albumID": 444,
@@ -4729,8 +4287,7 @@
 		"date": 1972,
 		"genre": "SOUL",
 		"score": 80,
-		"spotify": "http://open.spotify.com/album/1q3NaPlEoZobh2qUSss0aT",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/1q3NaPlEoZobh2qUSss0aT"
 	},
 	{
 		"albumID": 445,
@@ -4740,8 +4297,7 @@
 		"date": 1976,
 		"genre": "POP ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/7xiJjYVjV7YaPyBBxCqstQ",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7xiJjYVjV7YaPyBBxCqstQ"
 	},
 	{
 		"albumID": 446,
@@ -4751,8 +4307,7 @@
 		"date": 1970,
 		"genre": "HARD ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/67NkpPGMcxoIiumOW3oRpL",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/67NkpPGMcxoIiumOW3oRpL"
 	},
 	{
 		"albumID": 447,
@@ -4761,8 +4316,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1964,
 		"genre": "JAZZ",
-		"score": 100,
-		"listened": false
+		"score": 100
 	},
 	{
 		"albumID": 448,
@@ -4772,8 +4326,7 @@
 		"date": 1983,
 		"genre": "NEW WAVE",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/28eOriEfl7IGbQDNvWIWXK",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/28eOriEfl7IGbQDNvWIWXK"
 	},
 	{
 		"albumID": 449,
@@ -4783,8 +4336,7 @@
 		"date": 1978,
 		"genre": "POWER POP",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5spnOKcCnsfRsIBtRrRqGV",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5spnOKcCnsfRsIBtRrRqGV"
 	},
 	{
 		"albumID": 450,
@@ -4794,8 +4346,7 @@
 		"date": 1973,
 		"genre": "SINGER-SONGWRITER",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/12X80pgkHSjMDgAAS0HBdr",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/12X80pgkHSjMDgAAS0HBdr"
 	},
 	{
 		"albumID": 451,
@@ -4805,8 +4356,7 @@
 		"date": 2006,
 		"genre": "SOUL",
 		"score": 78,
-		"spotify": "http://open.spotify.com/album/4O5NY8SjUZqs4D9tvhJhk6",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4O5NY8SjUZqs4D9tvhJhk6"
 	},
 	{
 		"albumID": 452,
@@ -4816,8 +4366,7 @@
 		"date": 1971,
 		"genre": "COUNTRY",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
 	},
 	{
 		"albumID": 453,
@@ -4827,8 +4376,7 @@
 		"date": 1988,
 		"genre": "HIP HOP",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
 	},
 	{
 		"albumID": 454,
@@ -4838,8 +4386,7 @@
 		"date": 1971,
 		"genre": "HARD ROCK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/6p7jHbG5Bd6z2JgfKx0um7",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6p7jHbG5Bd6z2JgfKx0um7"
 	},
 	{
 		"albumID": 455,
@@ -4847,8 +4394,7 @@
 		"artist": "Los Lobos",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1984,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 456,
@@ -4858,8 +4404,7 @@
 		"date": 1978,
 		"genre": "SOUL",
 		"score": 84,
-		"spotify": "http://open.spotify.com/album/5eO3dGBapBw0menfrnGx8g",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5eO3dGBapBw0menfrnGx8g"
 	},
 	{
 		"albumID": 457,
@@ -4868,8 +4413,7 @@
 		"date": 2005,
 		"genre": "INDIE ROCK",
 		"score": 84,
-		"spotify": "http://open.spotify.com/album/3t5x2atwkDROOKlSXO8p9T",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3t5x2atwkDROOKlSXO8p9T"
 	},
 	{
 		"albumID": 458,
@@ -4879,16 +4423,14 @@
 		"date": 1970,
 		"genre": "POP ROCK",
 		"score": 80,
-		"spotify": "http://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY"
 	},
 	{
 		"albumID": 459,
 		"albumTitle": "The Drifters' Golden Hits",
 		"artist": "The Drifters",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
-		"date": 1968,
-		"listened": false
+		"date": 1968
 	},
 	{
 		"albumID": 460,
@@ -4898,8 +4440,7 @@
 		"date": 1994,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 86,
-		"spotify": "http://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
 	},
 	{
 		"albumID": 461,
@@ -4908,8 +4449,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1979,
 		"genre": "POST-PUNK",
-		"score": 96,
-		"listened": false
+		"score": 96
 	},
 	{
 		"albumID": 462,
@@ -4919,8 +4459,7 @@
 		"date": 1987,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
 	},
 	{
 		"albumID": 463,
@@ -4930,8 +4469,7 @@
 		"date": 1981,
 		"genre": "POST-PUNK",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/5pfEwlPwB0t1oNHCxXE8OB",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5pfEwlPwB0t1oNHCxXE8OB"
 	},
 	{
 		"albumID": 464,
@@ -4940,8 +4478,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1987,
 		"genre": "HARD ROCK",
-		"score": 93,
-		"listened": false
+		"score": 93
 	},
 	{
 		"albumID": 465,
@@ -4951,8 +4488,7 @@
 		"date": 1999,
 		"genre": "INDIE POP",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/6mKU4mCwPxx6hxSnu6zeGo",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6mKU4mCwPxx6hxSnu6zeGo"
 	},
 	{
 		"albumID": 466,
@@ -4962,8 +4498,7 @@
 		"date": 2002,
 		"genre": "POP ROCK",
 		"score": 77,
-		"spotify": "http://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
 	},
 	{
 		"albumID": 467,
@@ -4973,8 +4508,7 @@
 		"date": 1987,
 		"genre": "POP ROCK",
 		"score": 99,
-		"spotify": "http://open.spotify.com/album/0yVaPXxdXid6zOheZshWpT",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0yVaPXxdXid6zOheZshWpT"
 	},
 	{
 		"albumID": 468,
@@ -4982,8 +4516,7 @@
 		"artist": "The Paul Butterfield Blues Band",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1965,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 469,
@@ -4993,8 +4526,7 @@
 		"date": 1996,
 		"genre": "HIP HOP",
 		"score": 84,
-		"spotify": "http://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
 	},
 	{
 		"albumID": 470,
@@ -5004,8 +4536,7 @@
 		"date": 1985,
 		"genre": "HIP HOP",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/14Hg9OWQ2QKEl5YDH28SER",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/14Hg9OWQ2QKEl5YDH28SER"
 	},
 	{
 		"albumID": 471,
@@ -5015,8 +4546,7 @@
 		"date": 1974,
 		"genre": "FOLK ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3vCMmrJEx8CBtW4Hh0ehdl",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3vCMmrJEx8CBtW4Hh0ehdl"
 	},
 	{
 		"albumID": 472,
@@ -5026,8 +4556,7 @@
 		"date": 1987,
 		"genre": "POP",
 		"score": 87,
-		"spotify": "http://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
 	},
 	{
 		"albumID": 473,
@@ -5037,8 +4566,7 @@
 		"date": 1984,
 		"genre": "JANGLE POP",
 		"score": 91,
-		"spotify": "http://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55"
 	},
 	{
 		"albumID": 474,
@@ -5048,8 +4576,7 @@
 		"date": 2001,
 		"genre": "REGGAE",
 		"score": 68,
-		"spotify": "http://open.spotify.com/album/6V5K77ZC7Gq3I1GgOVSoVs",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6V5K77ZC7Gq3I1GgOVSoVs"
 	},
 	{
 		"albumID": 475,
@@ -5059,8 +4586,7 @@
 		"date": 1979,
 		"genre": "NEW WAVE",
 		"score": 98,
-		"spotify": "http://open.spotify.com/album/3ZAHIjLdPoEmHGMCHtoMpq",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3ZAHIjLdPoEmHGMCHtoMpq"
 	},
 	{
 		"albumID": 476,
@@ -5070,8 +4596,7 @@
 		"date": 1997,
 		"genre": "HIP HOP",
 		"score": 79,
-		"spotify": "http://open.spotify.com/album/4oVdpzxBJM1KrBm9cjyye7",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4oVdpzxBJM1KrBm9cjyye7"
 	},
 	{
 		"albumID": 477,
@@ -5079,8 +4604,7 @@
 		"artist": "Merle Haggard",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1996,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 478,
@@ -5088,8 +4612,7 @@
 		"artist": "Loretta Lynn",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2002,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 479,
@@ -5099,8 +4622,7 @@
 		"date": 1971,
 		"genre": "FUNK",
 		"score": 93,
-		"spotify": "http://open.spotify.com/album/4P5bvMUWhoYILjMf2fhKxZ",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4P5bvMUWhoYILjMf2fhKxZ"
 	},
 	{
 		"albumID": 480,
@@ -5110,8 +4632,7 @@
 		"date": 1995,
 		"genre": "HIP HOP",
 		"score": 89,
-		"spotify": "http://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8"
 	},
 	{
 		"albumID": 481,
@@ -5120,8 +4641,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2000,
 		"genre": "NEO-SOUL",
-		"score": 88,
-		"listened": false
+		"score": 88
 	},
 	{
 		"albumID": 482,
@@ -5129,8 +4649,7 @@
 		"artist": "Steve Earle",
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1986,
-		"genre": "Unknown",
-		"listened": false
+		"genre": "CRITIC SCORE"
 	},
 	{
 		"albumID": 483,
@@ -5139,8 +4658,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1979,
 		"genre": "POST-PUNK",
-		"score": 94,
-		"listened": false
+		"score": 94
 	},
 	{
 		"albumID": 484,
@@ -5150,8 +4668,7 @@
 		"date": 1972,
 		"genre": "GLAM ROCK",
 		"score": 89,
-		"spotify": "http://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
 	},
 	{
 		"albumID": 485,
@@ -5160,8 +4677,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1994,
 		"genre": "ALTERNATIVE ROCK",
-		"score": 86,
-		"listened": false
+		"score": 86
 	},
 	{
 		"albumID": 486,
@@ -5170,8 +4686,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1975,
 		"genre": "SOUL",
-		"score": 90,
-		"listened": false
+		"score": 90
 	},
 	{
 		"albumID": 487,
@@ -5181,8 +4696,7 @@
 		"date": 1983,
 		"genre": "POP ROCK",
 		"score": 75,
-		"spotify": "http://open.spotify.com/album/2aZG65CSBMeTKr0YNfsFMe",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2aZG65CSBMeTKr0YNfsFMe"
 	},
 	{
 		"albumID": 488,
@@ -5192,8 +4706,7 @@
 		"date": 1985,
 		"genre": "POST-HARDCORE",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/2eOu9QDLP2MoO04ZtII2Vm",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/2eOu9QDLP2MoO04ZtII2Vm"
 	},
 	{
 		"albumID": 489,
@@ -5203,8 +4716,7 @@
 		"date": 1976,
 		"genre": "HARD ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/5plT68KZ21QfY9FI64tYEl",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/5plT68KZ21QfY9FI64tYEl"
 	},
 	{
 		"albumID": 490,
@@ -5214,8 +4726,7 @@
 		"date": 1973,
 		"genre": "BLUES ROCK",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
 	},
 	{
 		"albumID": 491,
@@ -5225,8 +4736,7 @@
 		"date": 1967,
 		"genre": "BLUES",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/67I17xxxioQjnisRNmuSPE",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/67I17xxxioQjnisRNmuSPE"
 	},
 	{
 		"albumID": 492,
@@ -5236,8 +4746,7 @@
 		"date": 1983,
 		"genre": "SYNTHPOP",
 		"score": 85,
-		"spotify": "http://open.spotify.com/album/4pGwe5BW8GVtIP8ruoa1jB",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/4pGwe5BW8GVtIP8ruoa1jB"
 	},
 	{
 		"albumID": 493,
@@ -5246,8 +4755,7 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 2002,
 		"genre": "ALTERNATIVE ROCK",
-		"score": 92,
-		"listened": false
+		"score": 92
 	},
 	{
 		"albumID": 494,
@@ -5257,8 +4765,7 @@
 		"date": 2007,
 		"genre": "INDIETRONICA",
 		"score": 72,
-		"spotify": "http://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
 	},
 	{
 		"albumID": 495,
@@ -5268,8 +4775,7 @@
 		"date": 1972,
 		"genre": "BLUES ROCK",
 		"score": 87,
-		"spotify": "http://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
 	},
 	{
 		"albumID": 496,
@@ -5279,8 +4785,7 @@
 		"date": 1969,
 		"genre": "BLUE-EYED SOUL",
 		"score": 90,
-		"spotify": "http://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
 	},
 	{
 		"albumID": 497,
@@ -5290,8 +4795,7 @@
 		"date": 2001,
 		"genre": "GARAGE ROCK",
 		"score": 87,
-		"spotify": "http://open.spotify.com/album/7rIhZOxiuEieQylkZt50TN",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/7rIhZOxiuEieQylkZt50TN"
 	},
 	{
 		"albumID": 498,
@@ -5301,8 +4805,7 @@
 		"date": 1989,
 		"genre": "ALTERNATIVE ROCK",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
 	},
 	{
 		"albumID": 499,
@@ -5312,8 +4815,7 @@
 		"date": 1971,
 		"genre": "BLUES",
 		"score": 100,
-		"spotify": "http://open.spotify.com/album/3mCS3cMduOlki845XA4gDZ",
-		"listened": false
+		"spotify": "http://open.spotify.com/album/3mCS3cMduOlki845XA4gDZ"
 	},
 	{
 		"albumID": 500,
@@ -5322,7 +4824,6 @@
 		"image": "https://cdn.albumoftheyear.org/images/white.gif",
 		"date": 1998,
 		"genre": "HIP HOP",
-		"score": 92,
-		"listened": false
+		"score": 92
 	}
 ]
