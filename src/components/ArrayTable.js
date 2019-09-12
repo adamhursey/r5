@@ -63,7 +63,7 @@ class ArrayTable extends React.PureComponent {
     ];
     return (
       <MaterialTable
-        title="Selected Row Styling Preview"
+        title="Rolling Stones 500 Greatest Albums of All Time"
         columns={columns}
         data={dataJson}
         onRowClick={(evt, selectedRow) => {
