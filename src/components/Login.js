@@ -1,6 +1,6 @@
 import React from 'react';
-import LoginBox from '../components/LoginBox';
-import Header from '../components/Header';
+import LoginBox from './LoginBox';
+import Header from './Header';
 import '../css/login.css';
 
 function Login() {

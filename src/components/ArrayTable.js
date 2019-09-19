@@ -1,6 +1,8 @@
 import React from 'react';
 import MaterialTable from 'material-table';
 import Checkbox from '@material-ui/core/Checkbox';
+import PropTypes from 'prop-types';
+import base from '../base';
 
 const dataJson = require('../data.json');
 
@@ -13,6 +15,16 @@ class ArrayTable extends React.PureComponent {
     };
   }
 
+  componentDidMount() {
+    const { userID } = this.props;
+    this.ref = base.syncState(`${userID}/listened`, {
+      context: this,
+      state: 'listened',
+      asArray: true,
+      defaultValue: new Array(500).fill(false),
+    });
+  }
+
   ConsoleLog = ({ children }) => {
     // eslint-disable-next-line no-console
     console.log(children);
@@ -21,10 +33,11 @@ class ArrayTable extends React.PureComponent {
 
   handleCheckboxToggle = (id) => {
     const { listened } = this.state;
-    listened[id] = !listened[id];
+    const userListened = listened;
+    userListened[id] = !userListened[id];
 
     this.setState({
-      listened,
+      listened: userListened,
     });
   };
 
@@ -108,5 +121,9 @@ class ArrayTable extends React.PureComponent {
     );
   }
 }
+
+ArrayTable.propTypes = {
+  userID: PropTypes.string.isRequired,
+};
 
 export default ArrayTable;
