@@ -25,6 +25,10 @@ class ArrayTable extends React.PureComponent {
     });
   }
 
+  componentWillUnmount() {
+    base.removeBinding(this.ref);
+  }
+
   ConsoleLog = ({ children }) => {
     // eslint-disable-next-line no-console
     console.log(children);

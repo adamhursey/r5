@@ -1,7 +1,6 @@
 import React from 'react';
 import '../css/LoginButton.css';
 import PropTypes from 'prop-types';
-import { Link } from 'react-router-dom';
 
 const Facebook = require('../images/facebook.svg');
 const Github = require('../images/github.svg');
@@ -25,16 +24,14 @@ function imageGetter(logoName) {
 
 const LoginButton = ({ site, authenticate }) => (
   <div className="buttonWrap">
-    <Link to="/list/123">
-      <button
-        className="loginButton"
-        type="button"
-        onClick={() => authenticate(site)}
-      >
-        <img className="logo" alt="" src={imageGetter(site)} />
-        <span className="label">{site}</span>
-      </button>
-    </Link>
+    <button
+      className="loginButton"
+      type="button"
+      onClick={() => authenticate(site)}
+    >
+      <img className="logo" alt="" src={imageGetter(site)} />
+      <span className="label">{site}</span>
+    </button>
   </div>
 );
 LoginButton.propTypes = {
