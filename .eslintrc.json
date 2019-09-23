@@ -3,7 +3,8 @@
     "eslint:recommended",
     "plugin:react/recommended",
     "plugin:prettier/recommended",
-    "airbnb"
+    "airbnb",
+    "prettier"
   ],
   "plugins": [
     "react",

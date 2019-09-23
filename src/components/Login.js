@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import LoginBox from './LoginBox';
-import Header from './Header';
+import { HeaderWithoutLogout } from './Header';
 import '../css/login.css';
 
 class Login extends React.Component {
@@ -13,11 +13,10 @@ class Login extends React.Component {
   render() {
     return (
       <div>
-        <Header />
+        <HeaderWithoutLogout />
         <div className="login-header">
           <h2>Login</h2>
           <LoginBox pushHandle={this.pushHandle} />
-          <p>Auth coming soon... Buttons currently link you to home page </p>
         </div>
       </div>
     );

@@ -23,10 +23,26 @@ class LoginBox extends React.Component {
   render() {
     return (
       <div className="LoginBox">
-        <LoginButton site="Google" authenticate={this.authenticate} />
-        <LoginButton site="Github" authenticate={this.authenticate} />
-        <LoginButton site="Twitter" authenticate={this.authenticate} />
-        <LoginButton site="Facebook" authenticate={this.authenticate} />
+        <LoginButton
+          site="Google"
+          authenticate={this.authenticate}
+          logout={this.logout}
+        />
+        <LoginButton
+          site="Github"
+          authenticate={this.authenticate}
+          logout={this.logout}
+        />
+        <LoginButton
+          site="Twitter"
+          authenticate={this.authenticate}
+          logout={this.logout}
+        />
+        <LoginButton
+          site="Facebook"
+          authenticate={this.authenticate}
+          logout={this.logout}
+        />
       </div>
     );
   }

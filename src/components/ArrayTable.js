@@ -98,7 +98,7 @@ class ArrayTable extends React.PureComponent {
     ];
     return (
       <MaterialTable
-        title="Rolling Stones 500 Greatest Albums of All Time"
+        title="R5"
         columns={columns}
         data={dataJson}
         options={{
